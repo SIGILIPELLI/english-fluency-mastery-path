@@ -1,0 +1,100 @@
+site_name: English Fluency & IELTS Mastery Path
+site_description: A structured, module-wise English fluency and IELTS exam preparation program from entry level to master level.
+site_url: https://sigilipelli.github.io/english-fluency-mastery-path/
+repo_url: https://github.com/SIGILIPELLI/english-fluency-mastery-path
+repo_name: english-fluency-mastery-path
+
+theme:
+  name: material
+  custom_dir: docs/overrides
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - content.code.copy
+    - content.code.annotate
+    - search.suggest
+    - search.highlight
+
+markdown_extensions:
+  - admonition
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Privacy Policy: privacy.md
+  - "Level 1 · Entry":
+      - Overview: level-1/index.md
+      - "01 · Foundations of Spoken Fluency": level-1/01-foundations-of-spoken-fluency.md
+      - "02 · Pronunciation & Articulation Basics": level-1/02-pronunciation-articulation-basics.md
+      - "03 · Building Vocabulary for Everyday Fluency": level-1/03-building-vocabulary-everyday-fluency.md
+      - "04 · Grammar Patterns for Speaking": level-1/04-grammar-patterns-for-speaking.md
+      - "05 · Listening Actively": level-1/05-listening-actively.md
+      - "06 · Structuring a Short Talk": level-1/06-structuring-a-short-talk.md
+      - "07 · Common Conversation Situations": level-1/07-common-conversation-situations.md
+      - "08 · Introduction to IELTS": level-1/08-introduction-to-ielts.md
+      - "09 · IELTS Speaking Part 1 Basics": level-1/09-ielts-speaking-part-1-basics.md
+      - "10 · Project — Record and Self-Assess a 2-Minute Short Talk": level-1/10-project-record-self-assess-talk.md
+  - "Level 2 · Intermediate":
+      - Overview: level-2/index.md
+      - "01 · Advanced Pronunciation": level-2/01-advanced-pronunciation.md
+      - "02 · Idiomatic Expressions & Natural Phrasing": level-2/02-idiomatic-expressions-natural-phrasing.md
+      - "03 · IELTS Speaking Part 2": level-2/03-ielts-speaking-part-2.md
+      - "04 · IELTS Speaking Part 3": level-2/04-ielts-speaking-part-3.md
+      - "05 · IELTS Writing Task 1 Basics": level-2/05-ielts-writing-task-1-basics.md
+      - "06 · IELTS Writing Task 2 Basics": level-2/06-ielts-writing-task-2-basics.md
+      - "07 · IELTS Listening Strategies": level-2/07-ielts-listening-strategies.md
+      - "08 · IELTS Reading Strategies": level-2/08-ielts-reading-strategies.md
+      - "09 · Giving a 3-5 Minute Structured Talk": level-2/09-giving-3-5-minute-structured-talk.md
+      - "10 · Project — Full Mock IELTS Speaking Interview Script": level-2/10-project-mock-ielts-speaking-interview.md
+  - "Level 3 · Advanced":
+      - Overview: level-3/index.md
+      - "01 · Advanced Fluency Techniques": level-3/01-advanced-fluency-techniques.md
+      - "02 · IELTS Band 7+ Speaking Strategies": level-3/02-ielts-band-7-speaking-strategies.md
+      - "03 · IELTS Band 7+ Writing Strategies": level-3/03-ielts-band-7-writing-strategies.md
+      - "04 · Advanced Listening for Academic/Professional Contexts": level-3/04-advanced-listening-academic-professional.md
+      - "05 · Advanced Reading for Academic Texts": level-3/05-advanced-reading-academic-texts.md
+      - "06 · Public Speaking Basics": level-3/06-public-speaking-basics.md
+      - "07 · Handling Difficult Questions & Impromptu Speaking": level-3/07-handling-difficult-questions-impromptu-speaking.md
+      - "08 · Cross-Cultural Communication Nuances": level-3/08-cross-cultural-communication-nuances.md
+      - "09 · Advanced Vocabulary for Professional Contexts": level-3/09-advanced-vocabulary-professional-contexts.md
+      - "10 · Project — Deliver a 5-Minute Presentation on a Given Topic": level-3/10-project-5-minute-presentation.md
+  - "Level 4 · Master":
+      - Overview: level-4/index.md
+      - "01 · Executive-Level Communication in English": level-4/01-executive-level-communication.md
+      - "02 · Advanced Persuasive Speaking & Debate Techniques": level-4/02-persuasive-speaking-debate-techniques.md
+      - "03 · IELTS Band 8+ Mastery": level-4/03-ielts-band-8-mastery.md
+      - "04 · Advanced Academic Writing": level-4/04-advanced-academic-writing.md
+      - "05 · Coaching Others in English Fluency": level-4/05-coaching-others-english-fluency.md
+      - "06 · Advanced Negotiation Language": level-4/06-advanced-negotiation-language.md
+      - "07 · Media & Interview Skills": level-4/07-media-interview-skills.md
+      - "08 · Building Long-Term Fluency Habits": level-4/08-building-long-term-fluency-habits.md
+      - "09 · Career Growth: Becoming an English Fluency Coach": level-4/09-career-growth-fluency-coach.md
+      - "10 · Capstone — Full IELTS Mock Test Self-Administration & Band Score Self-Assessment": level-4/10-capstone-full-mock-ielts-self-assessment.md
