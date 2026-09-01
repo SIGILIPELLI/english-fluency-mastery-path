@@ -1,8 +1,8 @@
 site_name: English Fluency & IELTS Mastery Path
 site_description: A structured, module-wise English fluency and IELTS exam preparation program from entry level to master level.
-site_url: https://sigilipelli.github.io/english-fluency-skillmastery/
-repo_url: https://github.com/SIGILIPELLI/english-fluency-skillmastery
-repo_name: english-fluency-skillmastery
+site_url: https://sigilipelli.github.io/english-fluency-mastery-path/
+repo_url: https://github.com/SIGILIPELLI/english-fluency-mastery-path
+repo_name: english-fluency-mastery-path
 
 theme:
   name: material
