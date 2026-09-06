@@ -80,6 +80,40 @@ improvement*, and *make a mistake* patterns from sections 1-2, and
 nothing more advanced than the first — it's more natural, not more
 complicated.
 
+## How It Actually Works
+
+Vocabulary is stored in long-term memory as an associative network, not
+a list — each word is a node connected to other words by how often
+they've co-occurred in the language you've been exposed to. When you
+learn "decide" in isolation, you build one weak node with few
+connections. When you learn the family decide/decision/decisive/
+decisively together, you build a dense cluster of cross-linked nodes,
+and activating any one of them (hearing "decision") partially activates
+the others, which is why retrieval during live speech gets faster and
+more reliable — you're not searching a flat list, you're following a
+strengthened path through a network you built on purpose.
+
+Collocations work on the same principle but capture something word
+families can't: statistical co-occurrence *between* different words.
+Native speakers don't generate "make a decision" by combining the rules
+"make + noun" — they retrieve it as a single, pre-assembled unit because
+they've heard that exact pairing thousands of times, more than any
+grammatically equivalent alternative ("do a decision"). Psycholinguists
+call this a "lexical bundle," and it's processed faster than a novel
+combination of the same two words would be, which is the actual reason
+collocations sound more fluent — they cost less processing time for
+both the speaker to produce and the listener to parse.
+
+Situational grouping (Section 3) is a deliberate use of "encoding
+specificity" — memory retrieval works best when the conditions at
+retrieval match the conditions at learning. A word learned inside the
+context "reacting to bad news" gets tagged with that retrieval cue, so
+when you're actually in a conversation reacting to bad news, the cue is
+already present and pulls the phrase up automatically. A word memorized
+from an alphabetical list has no such cue, which is exactly why
+alphabetical vocabulary lists are recognized easily on a quiz but rarely
+surface unprompted in real conversation.
+
 ## Exercise
 
 Pick three word families from a topic relevant to your own life (work,

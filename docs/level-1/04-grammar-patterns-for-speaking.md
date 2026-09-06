@@ -83,6 +83,41 @@ Five different patterns from this module ("used to," "have always been,"
 structural work, so the speaker can focus on content, not on building
 grammar from zero.
 
+## How It Actually Works
+
+Sentence patterns like "the more..., the more..." function as
+**syntactic frames**: pre-built slot-and-filler templates stored whole in
+memory, the same way a chunk stores a fixed phrase. The difference is
+that a frame has open slots you fill on the fly, so it gives you the
+combinatorial power of real grammar (infinite possible sentences)
+without paying the full processing cost of generating word order and
+agreement from grammar rules in real time — the skeleton is already
+built, you're only choosing content words. This is why practicing
+patterns as templates, rather than as abstract rules ("comparative +
+comparative"), produces faster live retrieval: templates are retrieved
+like chunks, rules have to be applied like calculations.
+
+The past-simple/present-perfect confusion is fundamentally about a
+grammatical feature many languages don't mark at all: **aspect**, which
+encodes whether an event is being viewed as a closed, bounded point
+(past simple) or as an open interval still connected to the speaker's
+present (present perfect) — this is independent of when the event
+happened. A learner whose first language collapses this distinction
+(many do) isn't making a "vocabulary" or "tense" mistake when they say
+"I have seen it yesterday" — they're missing a category their language
+never forced them to track, which is why the fix isn't more examples of
+the same sentence but deliberately noticing the *closed vs. open*
+question before choosing a form, until that check becomes automatic.
+
+Modal verbs are hard for a related reason: they encode the speaker's
+degree of certainty or social stance (obligation, politeness,
+possibility) as grammar rather than as a separate word, so "must,"
+"should," and "might" aren't synonyms differing in strength — they sit
+on a genuine scale of epistemic commitment that a listener uses to judge
+how confident or how polite you're being, meaning a modal error doesn't
+just sound slightly off, it can misrepresent your actual stance (using
+"must" where you meant "might" reads as overclaiming certainty).
+
 ## Exercise
 
 Write four sentences about yourself, each one using a different pattern

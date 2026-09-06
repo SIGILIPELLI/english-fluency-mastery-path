@@ -72,6 +72,46 @@ cultural understanding") — all without sounding rehearsed.
 | Did my hesitations sound natural rather than frequent/disruptive? | Fluency and Coherence rewards occasional, not constant, hesitation |
 | Did I avoid forcing in vocabulary that didn't fit the sentence? | Unnatural vocabulary use can lower scores rather than raise them |
 
+## How It Actually Works
+
+The band descriptors' language — "range," "flexibility," "with some
+control" — points to a specific scoring logic that differs from a
+simple error count: examiners are rating your *ceiling*, the most
+sophisticated structures and vocabulary you can deploy correctly, not
+just your average sentence. A candidate who produces only simple,
+error-free sentences the entire test demonstrates high accuracy but a
+low ceiling, capping them well below a candidate who attempts complex
+structures with occasional slips — this is why "some errors in complex
+structures" (Band 7 descriptor) scores *higher* than "few errors,
+simple structures only," and it's the actual reason Section 3 pushes
+you toward conditionals and cleft sentences even at the cost of
+occasional imperfection: range is being sampled deliberately, and a
+structure never attempted can never be credited.
+
+The instruction that forced vocabulary "lowers your score" reflects
+something raters are specifically trained to detect: **collocational
+and contextual fit**. Advanced vocabulary used correctly demonstrates
+that a word's full usage pattern — its typical collocates, its register,
+the situations it naturally occurs in — is genuinely internalized, not
+just memorized as a definition. A word deployed where it doesn't fit
+reveals the opposite: that you know a translation-equivalent meaning
+but not the word's actual behavior in the language, which working
+memory research shows is a completely separate kind of knowledge from
+knowing a word exists at all (see the collocations mechanism in Level 2
+Module 2) — raters are listening for that behavioral fit as much as for
+the vocabulary item itself.
+
+The cleft sentence ("What really stands out to me is...") is worth
+special note: it's a structure many languages don't have a direct
+equivalent for, because it exists purely to manipulate **information
+structure** — foregrounding one piece of a sentence as the focal point
+by restructuring the whole clause around it, rather than relying on
+stress alone to signal emphasis (the spoken option) or word order (a
+more limited written option). Producing it correctly demonstrates
+grammatical control specifically over information packaging, a more
+abstract skill than tense or agreement, which is exactly the kind of
+"less accessible" structure the highest bands are designed to detect.
+
 ## Exercise
 
 Take three Part 1 or Part 3 questions you've answered before at a

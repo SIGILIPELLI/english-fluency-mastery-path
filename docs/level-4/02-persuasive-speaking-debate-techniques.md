@@ -71,6 +71,45 @@ in its strongest form before rebutting it — this is called
 | Did I steelman the counterargument before rebutting it? | Makes your rebuttal far more persuasive than dismissing it |
 | Did I stay calm and non-hostile during pushback? | Hostility undermines credibility even when the logic is sound |
 
+## How It Actually Works
+
+The ethos-logos-pathos ordering isn't arbitrary tradition — it follows
+the sequence in which a listener's trust actually gets built and spent.
+Logical evidence only persuades a listener who is already willing to
+engage with it seriously, and willingness to engage is largely a
+function of perceived credibility (ethos), established *before* the
+logic is presented; presenting strong data from a source the audience
+doesn't yet trust often gets discounted or scrutinized adversarially
+rather than absorbed. Pathos works best last because emotional framing
+applied to a claim the audience hasn't yet logically accepted can read
+as manipulation, whereas the same emotional framing applied *after*
+they've accepted the logic reads as a legitimate statement of stakes —
+the order manages the sequence of audience skepticism, not just
+rhetorical taste.
+
+Steelmanning works because of a documented persuasion effect:
+audiences discount arguments that appear to have ignored or misstated
+the opposition, and they can detect a strawman even when they can't
+articulate why the argument feels weaker for it — a two-sided argument
+that fairly represents the counter-view before rebutting it is
+measurably more persuasive than a one-sided argument, even to
+listeners who don't hold the counter-view themselves, because
+demonstrating you understand the strongest objection signals that your
+conclusion survived real scrutiny rather than dodging it. This is a
+scaled-up version of the acknowledge-contrast-explain disagreement
+structure from Level 1 Module 7, now applied to argumentation rather
+than social politeness.
+
+The Claim-Evidence-Consequence structure works by ensuring the argument
+answers three separate listener questions in a fixed, predictable
+order — what do you believe, why should I believe it, and why does it
+matter to me — rather than leaving the listener to infer relevance or
+stakes on their own. This mirrors the PEEL structure from IELTS Writing
+Task 2 (Level 2 Module 6): both are instances of the general principle
+that persuasive discourse works best when its component parts occupy
+predictable positions the listener can track without extra processing
+effort.
+
 ## Exercise
 
 Pick a position you genuinely hold (a work process, a book

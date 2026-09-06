@@ -69,6 +69,43 @@ example (the monthly check-ins), and a closing restatement.
 | Did I stay calm and factual if the question was hostile? | Prevents escalation and preserves credibility |
 | Did I admit it honestly when I didn't know something? | More credible than guessing or bluffing, and buys goodwill |
 
+## How It Actually Works
+
+The PREP framework's real power is that it separates two operations
+that impromptu speaking otherwise forces you to do simultaneously:
+deciding *what* your position is, and organizing *how* to present it.
+Stating your Point immediately ("I'd say the main issue is...") commits
+you to a position before you've fully worked out your justification —
+which sounds risky, but it converts the rest of the answer into a
+lower-load task: you're now filling in a known slot (Reason, then
+Example) rather than searching an open space for both content and
+structure at once. This is the identical working-memory-offloading
+mechanism behind the Quick Talk Planner (Level 1 Module 6) and the
+answer-reason-extra formula (Level 1 Module 9), applied under zero
+preparation time instead of 30-60 seconds.
+
+Buying-time phrases work for a subtler reason than "sounding polite" —
+they exploit the gap between **comprehension** and **formulation**,
+which are sequential, not simultaneous, cognitive stages: you must
+finish understanding a question before you can begin planning an
+answer, and a genuinely novel question means that gap is real, not
+performed. Filling it with an audible, meaningful phrase ("that's an
+interesting question") keeps the conversational turn actively yours
+while formulation completes in the background — silence, by contrast,
+signals to the listener that the turn may be abandoned, inviting them
+to jump in or read the pause as an inability to answer at all.
+
+Correcting a buried false assumption before answering is addressing a
+genuine logical trap: directly answering a loaded question ("isn't it
+true this will fail like last time?") without addressing its embedded
+premise implicitly concedes that premise regardless of your actual
+answer — this is the rhetorical structure of a "complex question"
+fallacy. Explicitly separating the premise from the question before
+responding — "I'd push back on X, but to answer your actual question,
+Y" — is the only way to answer honestly without accepting a claim you
+don't agree with by default, which is precisely why skipping that step
+under pressure so often leaves a false framing standing unchallenged.
+
 ## Exercise
 
 Ask someone to give you five unexpected questions on any topic (or

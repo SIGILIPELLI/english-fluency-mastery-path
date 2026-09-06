@@ -77,6 +77,43 @@ If you record yourself reading this and a listener understands every
 word without asking you to repeat, your articulation is doing its job —
 that's the actual bar, not "sounding native."
 
+## How It Actually Works
+
+English being "stress-timed" is a specific acoustic fact, not just a
+rule of thumb: stressed syllables recur at roughly even time intervals,
+and unstressed syllables between them get *compressed* — spoken faster,
+with vowels reduced toward a neutral schwa /ə/ — to keep that interval
+constant, regardless of how many syllables fall between stresses. A
+syllable-timed language (Spanish, French, most Indian languages) instead
+gives each syllable roughly equal length. This is the real mechanism
+behind why evenly-timed, equally-stressed speech from a learner sounds
+"choppy" to an English listener: the listener's auditory system is
+tuned to predict *when* the next stressed beat will land, using the
+stress pattern to segment the stream of sound into words in real time.
+Break the rhythm and you break their word-segmentation, not just their
+sense of accent — which is why sentence stress (Section 2) affects
+comprehension more than getting an individual vowel exactly right.
+
+Word stress errors are so damaging for a related reason: English vowel
+quality itself changes with stress. An unstressed vowel is reduced
+toward schwa, so the *unstressed* syllables of "photograph" and
+"photography" sound almost identical, and the only cue a listener has
+left for word identity is which syllable is stressed. Move the stress
+and you've effectively changed which syllable carries full vowel
+information — the word can become acoustically unrecognizable even
+though every consonant and vowel symbol on paper is "correct."
+
+The minimal-pair confusions (sheep/ship, right/light) are mechanical:
+each pair differs by one articulatory feature — tongue height, voicing,
+or place of contact — and your native language's phoneme inventory
+determines which contrasts your ear was tuned to detect in infancy.
+If your first language doesn't use that contrast to distinguish
+meaning, your auditory system literally maps both sounds to the same
+mental category (categorical perception), which is why simply "trying
+harder" to hear the difference doesn't work — you have to retrain the
+category boundary through deliberate contrastive listening, not just
+more exposure.
+
 ## Exercise
 
 Pick five words from your own vocabulary that you're not fully sure how

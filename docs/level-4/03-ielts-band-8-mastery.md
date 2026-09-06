@@ -75,6 +75,45 @@ the repetitive "because... and..." pattern.
 | Can I reliably tell False from Not Given in Reading? | This single distinction accounts for a large share of lost Reading marks at this level |
 | Am I self-correcting naturally rather than freezing when I make an error? | Natural self-correction is itself a Band 8 fluency marker |
 
+## How It Actually Works
+
+The Band 7-to-8 fluency distinction — hesitating only to find *precise*
+language, not *any* language — reflects two genuinely different
+retrieval failures happening at different points in speech production.
+Hesitating to find any language at all is a **lexical access failure**:
+the basic concept hasn't yet been mapped to any word. Hesitating only to
+choose between "careful" and "meticulous" is a **lexical selection**
+process happening *after* successful basic retrieval — you already have
+a word ready, you're evaluating whether a more precise one from the
+same semantic neighborhood exists. This second kind of hesitation is
+qualitatively different for a listener to perceive: the speech never
+stalls, it just occasionally slows for a beat while a more exact word
+gets selected, which is precisely the fluency signature examiners are
+trained to distinguish from a genuine breakdown.
+
+"Errors rare and non-repeating" targets **systematicity** specifically,
+not just frequency. A Band 7 speaker's errors often cluster around one
+recurring gap (say, consistently mishandling third-conditional
+structures), which reveals an actual hole in acquired grammar — the
+same error appearing repeatedly is diagnostic of a systematic
+competence gap, not a performance slip. A Band 8 speaker's rare errors
+are scattered and non-repeating, which is the signature of ordinary
+performance noise (the kind any fluent native speaker also produces
+under real-time pressure) rather than a gap in underlying knowledge —
+raters are listening for this pattern difference, not simply counting
+errors.
+
+Precise vocabulary like "meticulous" versus "very careful" is an
+instance of choosing a **hyponym** — a more specific word nested under a
+broader category — over an intensified general term. Using a hyponym
+demonstrates that your vocabulary is organized as a genuine semantic
+hierarchy (you know where "meticulous" sits relative to "careful," and
+what extra shade of meaning it adds — fastidious attention to detail,
+not just general carefulness) rather than as a flat list of
+loosely-interchangeable synonyms, which is exactly the deeper lexical
+organization Band 8's "wide, precise vocabulary" descriptor is designed
+to detect.
+
 ## Exercise
 
 Record yourself answering an IELTS Part 3 question for two minutes.

@@ -81,6 +81,44 @@ avoiding both defensiveness and over-apologizing.
 | Did I bridge rather than dodge unwanted questions? | Bridging looks confident; dodging looks evasive |
 | Did I resist filling silence after my answer with extra unplanned detail? | Extra unplanned detail is often where interview mistakes happen |
 
+## How It Actually Works
+
+Bridging works because it exploits a listener's expectation about how
+answers are supposed to relate to questions, without violating that
+expectation the way a flat dodge would. Acknowledging the question
+first ("that's a fair question") satisfies the adjacency-pair
+expectation from Level 1 Module 7 — the listener registers that their
+turn was received and respected — which creates the social license to
+then redirect content without it reading as a refusal to engage. A
+pure dodge skips the acknowledgment step entirely, so the listener's
+expectation goes unmet and the redirection reads as evasive; bridging
+is structurally the same redirection but sequenced to preserve the
+conversational contract first.
+
+Complete, self-contained sentences matter in media contexts for a
+reason specific to how quotation works: a journalist extracting a
+"quotable" line needs a syntactically complete unit that carries its
+full meaning without surrounding context, because the quote will be
+lifted out of the conversation and printed alone. A fragmented,
+run-on answer has no clean extraction point — any single clause pulled
+from it is ambiguous or incomplete out of context — so a journalist
+extracting from it is forced to either paraphrase (introducing
+distortion risk) or select whichever fragment sounds most dramatic in
+isolation, which is precisely the misquotation risk this technique is
+designed to prevent by removing the journalist's need to paraphrase at
+all.
+
+Resisting the urge to fill post-answer silence addresses a specific,
+well-known interview tactic: **strategic silence**, where an
+interviewer deliberately withholds a follow-up after your answer,
+because most people experience an unfilled conversational slot as
+uncomfortable and instinctively try to close it, even by volunteering
+information they hadn't planned to share. Recognizing the silence as a
+technique rather than as a signal that your answer was inadequate lets
+you let the pause stand — your complete, prepared answer doesn't need
+supplementing, and anything added under the pressure of silence is, by
+definition, unprepared and unvetted.
+
 ## Exercise
 
 Write your 3 key messages for a real or hypothetical interview about

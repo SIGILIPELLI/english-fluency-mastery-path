@@ -71,6 +71,43 @@ built into the paragraph.
 | Did I read topic sentences first on a difficult text? | Reveals the argument's skeleton before you invest in close reading |
 | Did I infer unfamiliar words from context before looking them up? | Builds reading speed and vocabulary inference skill together |
 
+## How It Actually Works
+
+Hedging language is a direct grammatical expression of **epistemic
+stance** — the writer's calibrated confidence in a claim, made explicit
+rather than left implicit. This matters because a careless reader who
+strips hedges when summarizing ("remote work reduces collaboration")
+isn't just being imprecise about wording — they're misrepresenting a
+probabilistic, source-attributed, scope-limited claim as a universal
+fact, which is a genuine reasoning error, not a stylistic one. Academic
+writing hedges deliberately because overclaiming beyond what evidence
+supports is treated as an epistemic failure in that discourse community;
+learning to read hedges accurately is learning to reconstruct the exact
+strength of claim the writer intended, which is the same skill trained
+in reverse when producing your own hedged opinions in Level 1 Module 7
+and Level 2 Part 3 speaking.
+
+Reading topic sentences first exploits a structural convention of
+argumentative prose: paragraphs in this genre are overwhelmingly
+organized deductively, stating the paragraph's claim up front and
+supporting it afterward (unlike narrative or conversational structure,
+which often builds toward a point). Because that convention holds with
+high reliability across academic and professional writing, sampling only
+first sentences yields a disproportionately complete map of the whole
+argument relative to the fraction of text actually read — the same
+statistical logic behind skimming in Level 2 Module 8, applied to
+argument structure rather than factual content.
+
+Inferring unfamiliar words from context before reaching for a dictionary
+trains a different, more transferable skill than lookup does:
+identifying a word's grammatical role and its relationship to
+surrounding clauses lets you narrow its meaning to a plausible range
+even without knowing it precisely, which is exactly how native readers
+handle unfamiliar vocabulary in their own language, and it builds a
+general inference strategy that scales to any future unfamiliar word —
+a dictionary lookup solves only that one instance and trains no
+transferable skill at all.
+
 ## Exercise
 
 Find a short academic article or opinion essay (800-1,200 words).

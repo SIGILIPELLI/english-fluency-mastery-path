@@ -79,6 +79,44 @@ risks sounding curt regardless of intent.
 | Did I allow silence after questions instead of rushing to fill it? | Silence often signals thinking, not confusion or disagreement |
 | Did I avoid idioms/humor that might not translate? | Keeps communication inclusive in mixed-nationality settings |
 
+## How It Actually Works
+
+Directness variation is a real, studied phenomenon in pragmatics called
+**face-work**, and it maps onto a genuine linguistic distinction between
+cultures that favor "positive politeness" (build rapport, minimize
+distance, direct but warm — common in US/Australian business norms) and
+those favoring "negative politeness" (minimize imposition on the
+listener's autonomy through hedged, indirect phrasing — common in UK
+and many academic contexts). Neither strategy is a distortion of "plain"
+English; both are systematic, rule-governed ways of managing the same
+face-threat every criticism or request creates, just calibrated to
+different cultural defaults for how much explicit softening a
+face-threatening act requires before it's socially acceptable — the
+"correct" register is whichever one matches the listener's calibration,
+not some universal neutral form.
+
+Silence tolerance after a question differs because cultures encode
+different **default inferences from a pause**. In many English-speaking
+professional contexts, a pause is read as evidence of genuine
+consideration — the listener is doing real cognitive work before
+responding, which is itself a positive signal about how seriously they
+take the question. In conversational cultures with tighter turn-taking
+norms, the same silence gap can be read as awkwardness, disagreement,
+or disengagement. Learning the local silence tolerance is really
+learning what inference a given pause length triggers in that
+audience's mind, since the acoustic event (silence) is identical across
+cultures — only its interpretation shifts.
+
+The feedback-softening example works via the same acknowledge-before-
+critique mechanism from Level 1 Module 7's disagreement structure,
+scaled to professional stakes: thanking someone for effort before
+listing flaws is a positive-politeness move that decouples "your work
+has problems" from "you personally did something wrong," letting the
+listener process the criticism as information about the work product
+rather than as a judgment of their competence — which is why identical
+substantive content lands as constructive in one framing and as an
+attack in the other.
+
 ## Exercise
 
 Take a piece of direct feedback you'd naturally give in your own

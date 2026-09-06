@@ -67,6 +67,44 @@ in*, *ran into*, *lost track of*, *jump into*) rather than advanced
 vocabulary — this is the actual texture of native conversational
 English.
 
+## How It Actually Works
+
+Phrasal verbs and idioms are processed and stored differently from
+compositional phrases, and that difference explains both why they're
+hard to learn and why they sound so natural once acquired. A
+compositional phrase ("go to the store") derives its meaning from its
+parts combined by grammar rules. An idiom ("hit the ground running")
+does not — its meaning can't be derived from "hit," "ground," and
+"running" individually, so it must be stored and retrieved as a single
+unit in the mental lexicon, exactly like a single word. This is why
+native listeners process familiar idioms *faster* than a literal
+paraphrase of the same meaning would take to parse — they're recognizing
+one unit, not computing a sentence — and it's also why literal-translation
+mistakes ("do a mistake") happen: a learner applying compositional logic
+to a slot that's actually filled by a memorized, non-compositional unit.
+
+The "don't overuse idioms" caution reflects a real register effect:
+idioms are marked, higher-salience language — each one draws a small
+amount of the listener's attention to the phrase itself rather than to
+the content, similar to how an unusual word choice stands out in
+writing. Native speech relies far more heavily on **collocations**
+(statistically frequent but semantically transparent pairings like
+"heavy rain") than on idioms proper, because collocations achieve
+naturalness without that salience cost — they're recognized as normal,
+default phrasing rather than as a "flourish," which is exactly why
+overloading a sentence with idioms reads as performative rather than
+fluent: it inverts the actual frequency distribution of native speech.
+
+The wrong-collocation errors in Section 3 are near-universal among
+learners because collocational pairings are essentially arbitrary from
+a logical standpoint — there's no semantic reason "make" pairs with
+"decision" while "do" pairs with "homework," so this knowledge can only
+be built through accumulated exposure to real co-occurrence statistics,
+not derived from grammar or vocabulary knowledge alone, which is why
+deliberately learning words in their collocational pairing (as urged
+here and in Level 1 Module 3) is the only reliable shortcut around
+needing years of raw exposure.
+
 ## Exercise
 
 Take five sentences you commonly say in your own life (about work,

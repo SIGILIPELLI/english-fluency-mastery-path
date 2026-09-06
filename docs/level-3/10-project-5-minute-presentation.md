@@ -72,6 +72,42 @@ mental outline before the content starts.
 | Did I rehearse with a timer at least twice? | Timing drift is the most common reason presentations run over or under |
 | Did I prepare for likely questions using PREP? | Prevents the Q&A section from undoing a strong prepared talk |
 
+## How It Actually Works
+
+Scoping the topic narrowly ("why our team switched to async standups"
+rather than "how to manage teams") is a direct application of the
+**depth-vs-breadth trade-off** in spoken discourse: a fixed time budget
+(here, roughly 600-750 words) can either cover many claims shallowly or
+one claim with genuine evidence, and audiences retain and are persuaded
+by the latter far more reliably. A broad topic forces each point down to
+a bare assertion with no room for the concrete, exemplified reasoning
+that both holds attention and demonstrates real command of the
+language — this is the presentation-scale version of the same principle
+behind Task 2's one-idea-per-paragraph rule and PEEL structure.
+
+The hook-then-roadmap opening exploits two separate psychological
+effects working together: a rhetorical question or surprising fact
+creates a **curiosity gap** — the audience now has an unanswered
+question they want resolved, which sustains attention through the
+following content — while the roadmap immediately supplies a mental
+model (the same scaffolding function from Level 2 Module 9's roadmap
+technique) so the curiosity gap doesn't turn into confusion about where
+the talk is headed. Skipping the roadmap after a strong hook leaves
+curiosity without direction; skipping the hook and going straight to a
+roadmap is organized but fails to earn attention in the first place —
+the combination does both jobs.
+
+Preparing PREP-structured answers for anticipated questions in advance,
+while still relying on the framework live for genuinely unexpected ones,
+reflects a deliberate blend of **rehearsed and generative** speech —
+the same distinction from Module 1's fluency techniques. Pre-planning
+likely questions converts them from impromptu-speaking demands into
+near-retrieval tasks (lower cognitive load, more polished delivery),
+while keeping the PREP framework as a live fallback ensures a genuinely
+novel question doesn't produce a blank stare — you're not memorizing
+every possible answer, you're pre-solving the easy 80% so full
+attention is available for the unpredictable 20%.
+
 ## Exercise
 
 Write a full outline for your 5-minute presentation using the

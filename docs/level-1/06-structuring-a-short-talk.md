@@ -91,6 +91,45 @@ Notice the talk never stalls, because at every point the speaker knows
 which "slot" (intro / body point / example / linking / conclusion)
 they're filling next — that's the entire value of the structure.
 
+## How It Actually Works
+
+The value of a skeleton structure is that it converts an unbounded
+planning problem into a bounded retrieval problem. Speaking without
+structure requires you to simultaneously plan *content* (what to say)
+and *discourse organization* (how it fits together) in real time, and
+those two jobs compete for the same limited working-memory capacity
+covered in Module 1 — when both compete at once, one usually collapses,
+which is what a mid-talk freeze actually is. A fixed structure
+(intro-body-conclusion, always three slots) offloads the organization
+job entirely: you always know which slot you're in, so 100% of working
+memory is free for content. This is the identical mechanism behind why
+outlining a written essay makes it easier to write — you've pre-solved
+the structural decisions so they don't have to be solved live.
+
+The 30-60 second sub-minute planner works because it produces retrieval
+cues, not a script. A written-out script gets stored as verbatim
+episodic memory and, under the stress of speaking, verbatim recall is
+notoriously brittle — miss one word and the whole chain can collapse
+because each sentence was cued by the previous exact sentence. A skeleton
+of keywords instead cues *gist* memory, which is far more robust to
+disruption: forgetting the exact wording doesn't matter because you're
+regenerating the sentence from the idea, not retrieving it word-for-word.
+This is also why reading from full sentences sounds robotic — you're
+performing memory retrieval of text, not live speech production, and
+listeners can hear the difference in the flattened prosody that comes
+with reading.
+
+Linking words function as **cohesion markers**: they make the logical
+relationships between your ideas explicit to the listener instead of
+leaving them to be inferred. A list of true, relevant sentences without
+linking words still forces the listener to do the work of figuring out
+whether sentence two supports, contrasts, or exemplifies sentence one —
+extra cognitive load imposed on your audience. Supplying that
+relationship yourself is precisely what separates "coherence" from mere
+"cohesion" in IELTS scoring terms, and it's why examiners and listeners
+alike perceive linked speech as more organized even when the underlying
+content is unchanged.
+
 ## Exercise
 
 Using the Quick Talk Planner in section 2, spend exactly 60 seconds

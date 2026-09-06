@@ -84,6 +84,44 @@ repeating the same wording.
 | Did I include at least one specific example per body paragraph? | Generic, example-free paragraphs score lower |
 | Is my essay 250+ words, with a distinct conclusion? | Under-length or conclusion-less essays lose Task Achievement marks |
 
+## How It Actually Works
+
+The one-idea-per-paragraph rule and PEEL formula both target **Coherence
+and Cohesion**, a criterion that scores something subtly different from
+grammar: whether the *logical structure* of your reasoning is
+recoverable by a reader without effort. A paragraph containing two
+unrelated ideas forces the reader to mentally re-segment your text to
+figure out where one argument ends and another starts — extra
+processing cost identical in kind to the "extra listener work" problem
+from linking words in Level 1 Module 6, just applied to written
+argument structure instead of spoken discourse. PEEL enforces a fixed,
+predictable information sequence (claim → justification → evidence →
+relevance) so a reader's expectations are met at each sentence, which is
+the actual mechanism behind why formulaic-seeming structure scores
+*higher*, not lower — predictability reduces reader effort, and that
+reduced effort is what "coherence" is measuring.
+
+Correctly identifying the question type (Section 1) matters because
+each type demands a different underlying **argument schema** — a
+"discuss both views" question requires you to represent two positions
+faithfully before adding your own (a comparative schema), while an
+opinion question requires sustained one-sided argumentation (a
+persuasive schema). Applying the wrong schema doesn't just under-address
+part of the prompt superficially — it produces an essay whose entire
+paragraph-to-paragraph logic doesn't match what the reader is primed to
+expect from that question type, which compounds into Coherence
+penalties beyond the direct Task Achievement penalty for missing content.
+
+The requirement for a concrete example per point (PEEL's second "E")
+exists because unsupported general claims are, linguistically, low-
+information: "remote work improves productivity" could be true or false
+and gives a rater no way to assess whether you can build an evidenced
+argument versus simply assert opinions. A specific example anchors the
+abstract claim to a falsifiable, concrete instance — invoking the same
+concreteness-effect processing advantage noted in Speaking Part 3 — and
+gives the rater actual linguistic material (numbers, named studies,
+specific scenarios) to credit under Lexical Resource.
+
 ## Exercise
 
 Choose one question type from section 1, write your own practice

@@ -81,6 +81,45 @@ and the conclusion explicitly restates the three points before ending.
 | Did my conclusion restate the main points, not just stop? | A proper close is expected at this length |
 | Did I hit close to the 3-5 minute target? | Under 3 minutes suggests underdeveloped points; well over 5 suggests poor time control |
 
+## How It Actually Works
+
+The roadmap step matters more at 3-5 minutes than at 2 because listener
+memory for spoken discourse decays with length unless it's actively
+scaffolded. Comprehension research distinguishes a **mental model**
+(the listener's ongoing structural representation of what's being said
+and how the parts relate) from simple word-by-word tracking; building
+and maintaining a mental model over several minutes requires the
+listener to know, in advance, roughly how many pieces there are and how
+they'll connect — without that, each new point arrives as an isolated
+fact rather than as "point two of three," and by minute four the
+listener has lost the thread of how earlier content relates to what
+they're hearing now. Stating the roadmap upfront hands the listener the
+model's skeleton before you start filling it in, which is exactly why
+it's absent (and unnecessary) in a 30-second answer but load-bearing in
+a longer one.
+
+Signposting language works by making structure **audible** rather than
+only logical. A talk can be perfectly organized in the speaker's head
+and still sound disorganized to a listener if the organizational
+boundaries aren't marked in the acoustic stream — signposts function
+similarly to paragraph breaks in writing, giving the listener explicit
+segmentation cues at exactly the moments internal structure changes.
+This is the spoken-language version of the same cohesion principle
+from IELTS Writing's PEEL structure: predictable structural markers
+reduce the processing cost of following an argument, whether read or
+heard.
+
+The 3-5 minute time-control expectation reflects a genuine trade-off
+between breadth and depth: a talk that runs under 3 minutes for this
+much structure (roadmap + three developed points) usually reveals
+underdeveloped points — each idea stated but not explained or
+exemplified — while one that runs well over 5 minutes usually reveals
+a failure of the same self-monitoring skill trained in Level 1's
+self-assessment project: an inability to track your own pacing against
+a target in real time, a skill that becomes progressively more
+important as talk length (and, later, professional presentation length)
+increases.
+
 ## Exercise
 
 Choose a topic you know well and outline it using the five-part

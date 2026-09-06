@@ -56,6 +56,45 @@ whose first language treats all questions as rising.
 Read it once slowly sound by sound, then again treating every `⌣` mark
 as a seamless join, no pause or glottal stop at the word boundary.
 
+## How It Actually Works
+
+Connected-speech phenomena like linking and assimilation ("don't you" →
+"don-cha") aren't laziness or slang — they're the predictable output of
+**articulatory economy**: the vocal tract minimizing physical movement
+between adjacent sounds whenever the change doesn't threaten
+intelligibility. When /t/ meets /j/, the tongue is already positioned to
+glide toward a palatal sound, so the two blend into /tʃ/ rather than
+executing two separate, effortful articulatory gestures — every fluent
+speaker of every language does some version of this, it's just realized
+differently by language. This is precisely why studying linking rules
+speeds up listening comprehension as much as speaking: once you know
+"want to" reliably surfaces as "wanna" in casual speech, your brain
+stops treating it as a mystery sound and starts matching it to the
+underlying words automatically.
+
+Intonation carries meaning because pitch contour is a **grammatical
+signal** in English, not decoration layered on top of words — a falling
+tone marks a proposition as complete and asserted ("I live here.↘"), a
+rising tone marks it as incomplete or dependent on the listener's
+response ("Do you live here?↗"). This is why a wh-question spoken with
+rising intonation misfires: rising intonation independently signals "I
+am uncertain / seeking confirmation," so layering it onto a question
+that already grammatically requests information doubles the
+uncertainty marker, which native listeners parse as suspicion or
+disbelief rather than genuine curiosity — the pitch pattern is
+overriding the literal words.
+
+Schwa reduction exists because English redistributes acoustic energy
+according to informational value: content words (which carry the
+message) get full vowel quality and stress, function words (which carry
+grammatical scaffolding, largely predictable from context) get
+compressed toward the neutral, low-effort schwa. Failing to reduce
+function words — over-articulating "to" as /tuː/ — doesn't just sound
+overly formal, it actively works against the stress-timed rhythm from
+Level 1 Module 2, because it gives an unstressed syllable full length
+and undermines the beat pattern a listener uses to track sentence
+structure in real time.
+
 ## Exercise
 
 Record yourself reading the sentence in section 1 and the passage in

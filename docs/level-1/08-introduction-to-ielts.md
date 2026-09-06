@@ -88,6 +88,45 @@ skills are in place.
 | Retake policy | You can retake IELTS as many times as needed; scores are per-attempt, past scores don't affect new ones |
 | Format options | Paper-based and computer-delivered versions exist; content and scoring criteria are the same either way |
 
+## How It Actually Works
+
+IELTS band scores aren't a single holistic impression — each section is
+scored against a published **analytic rubric** made of several distinct
+criteria (Speaking and Writing each have four; Listening and Reading are
+scored by raw-answer count converted through a fixed conversion table).
+For Speaking, the four criteria — Fluency & Coherence, Lexical Resource,
+Grammatical Range & Accuracy, and Pronunciation — are scored
+*independently* by the examiner during the interview and then averaged;
+this is precisely why Module 1 draws a hard line between fluency and
+accuracy as separate skills to train — they are, literally, separate
+line items on the score sheet, and strength in one does not lift your
+score on the other.
+
+The overall band score's rounding rule is a specific arithmetic
+mechanism worth understanding exactly: the four section scores are
+averaged, and if the average ends in .25 it rounds up to the next half
+band, while .75 rounds up to the next whole band — so a candidate
+scoring 6.5, 6.5, 7.0, 6.0 averages to 6.5 exactly, but 6.5, 7.0, 7.0,
+6.0 averages to 6.625, which rounds up to 6.5, not down. This mechanical
+rounding is why test-takers sometimes see a counterintuitive overall
+score relative to their per-section scores, and why immigration/academic
+requirements that specify a minimum *per section* (rather than only
+overall) exist — an overall average can mask one weak section that the
+averaging conveniently rounds over.
+
+The band descriptors themselves (Section 3) describe qualitatively
+different *processing capacities*, not just error counts — moving from
+Band 6 ("generally effective command despite some inaccuracies") to
+Band 7 ("occasional inaccuracies in unfamiliar situations") isn't
+primarily about making fewer mistakes on familiar material, it's about
+maintaining that same effective command when the topic or task shifts
+outside familiar territory. This is the actual reason later levels of
+this program keep introducing progressively less familiar, more abstract
+topics (academic texts, professional negotiation, impromptu questions)
+rather than just drilling more of the same — the band descriptors are
+explicitly testing performance under novelty, not just accuracy under
+comfortable, rehearsed conditions.
+
 ## Exercise
 
 Without looking back at this module, write out from memory: the four

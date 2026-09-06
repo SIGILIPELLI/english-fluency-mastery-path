@@ -83,6 +83,39 @@ of where the talk is going at each point. That difference *is* what
 Level 1 was training — write down, in 2-3 sentences, what specifically
 sounds different between the two recordings.
 
+## How It Actually Works
+
+Self-assessment against a rubric works as a learning tool because it
+forces **metacognitive monitoring** — evaluating your own performance
+against explicit criteria — which is a fundamentally different mental
+process from performing the skill itself. Producing fluent speech uses
+largely automatic, procedural processes (Module 1); scoring your own
+Fluency & Coherence afterward requires you to consciously re-analyze
+that same output using declarative criteria. Doing both is what starts
+converting implicit, unconscious errors (a pause you didn't notice while
+speaking) into explicit, correctable targets — this is why simply
+speaking a lot without ever reviewing a recording against criteria
+plateaus far sooner than speaking *plus* structured self-review.
+
+The 60-second timed planning constraint is deliberately reproducing
+**retrieval practice under load**, not just simulating exam conditions
+for its own sake. Skills trained only under low-pressure, unlimited-time
+conditions transfer poorly to high-pressure situations — this is a
+well-documented mismatch called the encoding-retrieval match problem:
+what you practice under is what you get good at performing under. By
+timing the planning stage tightly here, the project ensures that what
+gets consolidated into procedural memory is "produce a structure fast,"
+not "produce a structure given unlimited time," which is the condition
+you'll actually face in Level 2's mock interviews and the real exam.
+
+Comparing this recording against Module 1's is a direct application of
+**distributed, criterion-referenced progress measurement**: because both
+recordings are scored the same way and separated in time, the comparison
+isolates the effect of the intervening training from noise (a good or
+bad day, a flattering topic) that a single one-off assessment can't
+control for — this is why the module insists on the same self-scoring
+method both times rather than a vaguer "does it feel better" judgment.
+
 ## Exercise
 
 Complete the full project above: plan (60 seconds), record (1.5-2

@@ -75,6 +75,45 @@ it selectively, mainly in topic sentences and summaries of method.
 | Did I vary how I introduce cited sources (argues/claims/notes)? | Repetitive citation verbs read as unpolished |
 | Does each paragraph have one clear topic sentence? | Multi-topic paragraphs weaken argument structure |
 
+## How It Actually Works
+
+Reporting verb choice ("argues" vs. "claims" vs. "rightly notes") is
+doing genuine evaluative work that a neutral verb like "said" cannot:
+each verb carries an implicit stance toward the cited claim's
+reliability. "Argues" presents a position as reasoned but contestable;
+"claims" subtly signals the writer's distance or skepticism; "notes"
+(especially with "rightly") signals endorsement. This is a documented
+feature of academic discourse called **evaluative stance-marking** —
+academic writers use these verbs to position their own argument
+relative to the literature without ever writing an explicit sentence
+like "I disagree with Smith," which academic convention treats as too
+blunt. Varying citation verbs isn't stylistic polish; each verb choice
+is quietly telling the reader how much weight to give that source.
+
+The topic-evidence-analysis-link structure exists specifically because
+evidence alone is logically inert — a data point doesn't automatically
+support a claim; it requires an explicit inferential bridge connecting
+what the evidence shows to what the paragraph argues. Leaving analysis
+implicit forces the reader to construct that inferential link
+themselves, and different readers may construct different (or no)
+links, which is precisely the ambiguity academic writing is designed to
+eliminate. This is the same "explain why the evidence supports the
+idea" requirement as PEEL's second "E" in Task 2 writing, made
+non-negotiable here because academic argument is held to a stricter
+standard of explicit, checkable reasoning than a persuasive essay.
+
+Nominalization's selective use (not overuse) reflects a genuine
+readability trade-off: converting "we analyzed the data and found"
+into "analysis of the data revealed" removes an explicit human agent
+and lets the sentence foreground the finding rather than the actor —
+appropriate when the actor is irrelevant to the claim's validity (the
+finding matters, not who performed it) — but chaining several
+nominalizations together removes so many verbs that a sentence loses
+its clear grammatical backbone, forcing the reader to reconstruct
+who-did-what-to-whom from noun phrases alone, which is why dense,
+over-nominalized academic prose is a well-known readability complaint
+even within academia itself.
+
 ## Exercise
 
 Take a strong opinion you hold and write one academic-style paragraph

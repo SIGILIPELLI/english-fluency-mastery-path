@@ -91,6 +91,40 @@ of every data point.
 | Did I stay descriptive and avoid giving reasons/opinions? | Task 1 only asks you to report, not explain or judge |
 | Is my response at least 150 words? | Under-length responses are penalized on Task Achievement |
 
+## How It Actually Works
+
+The overview sentence is weighted so heavily because Task Achievement is
+explicitly scoring your ability to identify the **superordinate
+pattern** in a dataset — the highest level of abstraction a description
+can operate at — as distinct from your ability to transcribe individual
+data points. Listing every number is actually the *lower*-skill
+operation: it requires reading a chart, not interpreting it. An
+examiner sees a candidate skip the overview as a candidate who cannot
+step back from raw data to a generalization, which is a genuine
+analytical gap, not a stylistic preference — this is the same
+skill jump from description to abstraction that separates Speaking
+Part 2 from Part 3.
+
+Requiring past tense and prohibiting causal explanation ("why the trend
+happened") is a deliberate constraint on the task's *evidentiary scope*:
+everything you write must be verifiable directly from the visual you
+were given. A chart shows *what* happened, never *why* — attributing a
+rise in internet access to "growing smartphone affordability," however
+plausible, is a claim the chart cannot support, and inserting it
+signals that you can't distinguish between what data shows and what you
+infer, which the rubric treats as a failure of Task Achievement even
+though the sentence itself might be grammatically flawless.
+
+The trend-vocabulary table matters because IELTS raters specifically
+credit **lexical range** through *semantic field* coverage — using
+multiple near-synonyms accurately (rose/climbed/increased) rather than
+one verb repeated — as direct, countable evidence that you command a
+genuine vocabulary rather than a single memorized phrase. This is the
+same underlying principle as word families and collocations from
+Level 1 Module 3: a rater can only credit vocabulary they see you
+actually deploy, and deploying variety under a real writing task is
+harder evidence to fake than reciting a list.
+
 ## Exercise
 
 Find a simple line or bar chart online (search "IELTS Task 1 practice

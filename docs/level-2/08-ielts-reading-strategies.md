@@ -69,6 +69,43 @@ is never mentioned, so it cannot be marked True or False.
 | Did I watch for paraphrased headings/synonyms, not literal word matches? | Questions rarely reuse the passage's exact wording |
 | Did I move on from a stuck question rather than over-spending time? | Protects your ability to answer every question at least once |
 
+## How It Actually Works
+
+Skimming and scanning are not "sloppy" versions of close reading — they
+are distinct reading modes that engage different processing goals.
+Skimming activates **macro-structure building**: your eyes sample high-
+information positions (titles, topic sentences, first/last sentences of
+paragraphs) because those positions statistically carry a
+disproportionate share of a paragraph's main idea in expository writing,
+letting you construct a rough mental map of the whole passage at a
+fraction of the reading time full comprehension would need. Scanning is
+a different operation entirely — visual pattern-matching against a
+known target (a name, number, or keyword) rather than semantic
+processing — which is why it works even when you don't understand
+surrounding sentences at all; you're searching for a shape, not parsing
+meaning, and only switch into close reading once the shape is found.
+
+The False/Not Given distinction is testing a specific logical skill:
+distinguishing a **negation** of a claim from an **absence** of
+evidence about that claim — a distinction formal logic treats as
+completely different operations (¬P is not the same as "P was never
+asserted"), but one that's easy to blur under time pressure because both
+feel like "the passage doesn't support this statement." The trap exists
+because human reasoning has a documented bias toward treating
+"unmentioned" as "false" (an intuitive but logically unjustified
+inference), and the question type is deliberately probing whether you
+resist that bias and evaluate only what the text explicitly states.
+
+The reading order in Section 4 — structure first, keywords second,
+close reading last — is an application of **top-down processing** to
+reading, the same principle behind Listening's preview-time strategy:
+building a structural map before searching for detail means each
+subsequent scan is constrained to a small, relevant region of text
+instead of the whole passage, which is what makes 60 minutes for 2,750
+words of text and 40 questions achievable at all — the technique
+doesn't make you read faster in an absolute sense, it makes you read
+far less of the passage in full.
+
 ## Exercise
 
 Find a free IELTS Academic Reading passage online. Time yourself: 2-3

@@ -74,6 +74,44 @@ clean confirmation close — without hostility on either side.
 | Did I push back calmly rather than aggressively? | Preserves the relationship for future negotiations |
 | Did I close with an explicit confirmation of terms? | Prevents misunderstandings after the conversation ends |
 
+## How It Actually Works
+
+Anchoring with a range rather than a single number is exploiting a
+well-documented cognitive bias: the **anchoring effect**, where the
+first number introduced into a negotiation disproportionately shapes
+the entire range of subsequent discussion, even when the listener
+knows the anchor was self-interested. A range ("X to Y") rather than a
+single rigid figure captures most of this anchoring benefit — it still
+sets the frame the rest of the negotiation adjusts around — while
+signaling flexibility that a single hard number doesn't, avoiding the
+appearance of rigidity that can trigger a purely adversarial rather
+than collaborative response from the other side.
+
+Conditional ("if-then") language is doing structural, not just
+diplomatic, work: it explicitly links every concession to a reciprocal
+gain, converting what would otherwise be a one-sided giveaway into a
+package trade. This matters because unconditional concessions train
+the other party to expect further concessions for free — once you've
+given something without asking for anything in return, you've supplied
+information about your reservation position and your willingness to
+move without resistance, both of which weaken your position for the
+rest of the negotiation. "If X, then Y" phrasing keeps every movement
+paired, which is a documented principle from negotiation theory
+(reciprocal concession-making) rather than simply a courteous phrasing
+convention.
+
+Explicit closing confirmation ("to confirm, we've agreed on X — is that
+right?") exists because verbal agreements are subject to a real
+phenomenon called the **illusion of communicated understanding** — two
+parties routinely leave a conversation believing they agreed to
+different things, because each side's mental model of "the deal" was
+built from their own priorities and assumptions during the discussion,
+not from a jointly verified statement. Restating the agreed terms
+explicitly and asking for confirmation forces both parties' mental
+models to be checked against the same externalized statement before the
+conversation ends, which is the only reliable way to catch a
+misunderstanding before it becomes a costly one later.
+
 ## Exercise
 
 Write out both sides of a negotiation you expect to have soon (salary,

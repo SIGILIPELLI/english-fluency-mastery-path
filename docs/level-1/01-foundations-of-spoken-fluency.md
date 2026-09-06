@@ -95,6 +95,45 @@ small errors hiding in there if you look closely — but it's continuous,
 uses chunks ("to be honest," "which is probably my favorite part,
 actually"), and never stops. That's the fluency this level builds.
 
+## How It Actually Works
+
+Fluency and accuracy live in different parts of the language system, and
+that's not a metaphor — it's why training one barely trains the other.
+Accuracy is *declarative* knowledge: explicit rules you can state ("third
+person singular takes -s") stored and retrieved consciously, the same
+system that holds facts like phone numbers. Fluency is *procedural*
+knowledge: compiled motor-and-retrieval sequences, the same system that
+lets you type without looking at the keyboard or ride a bike without
+calculating balance equations. Procedural knowledge is built by repeated,
+real-time execution under load — not by understanding a rule better.
+This is why a learner can score 9/9 on a grammar worksheet (declarative
+mastery) and still freeze mid-sentence in conversation (no procedural
+compilation) — the two systems don't automatically transfer into each
+other.
+
+Chunking works because of a hard limit on working memory: you can hold
+roughly 3-4 meaningful units in active attention at once, not 3-4 words.
+Speaking word-by-word forces your working memory to juggle every word as
+a separate unit, so it fills up after half a sentence and speech stalls
+while you retrieve the next word from scratch. A memorized chunk like "to
+be honest" collapses into *one* unit — it's retrieved as a whole from
+long-term memory the same way a single word would be, freeing up the
+remaining working-memory slots for the actual content of your sentence.
+This is also why translating in your head is so costly: it forces
+word-by-word assembly in a foreign grammar, maxing out working memory on
+mechanics before you even get to meaning.
+
+Mid-sentence self-correction is expensive for a specific reason: it
+forces a context-switch between *speech production* (forward-moving,
+automatic) and *speech monitoring* (backward-checking, effortful) —
+these draw on the same limited attentional resource, so every switch
+costs measurable time and breaks the rhythm cues (stress, pacing) a
+listener uses to parse fluent speech. Filler phrases work not because
+they add meaning, but because they keep the *production* system
+running — occupying the turn and the rhythm — while the retrieval system
+searches in the background, which is exactly what native speakers'
+brains are doing during their own "um"s.
+
 ## Exercise
 
 Record yourself (phone voice memo is fine) answering this question for

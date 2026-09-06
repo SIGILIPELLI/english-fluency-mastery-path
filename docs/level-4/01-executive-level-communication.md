@@ -66,6 +66,42 @@ under 20 seconds of spoken time — the executive-level standard.
 | Did I stay calm and brief when pushed back on? | Defensive or lengthy responses erode perceived seniority |
 | Would this update work if I only had 30 seconds? | Forces genuine prioritization of content |
 
+## How It Actually Works
+
+The answer-first principle inverts the narrative order most learners are
+taught (build context, then reveal the conclusion) because it matches
+how a time-constrained listener actually allocates attention: their
+processing capacity for your update is highest in the first few seconds
+and decays from there as competing priorities pull focus back. Leading
+with the conclusion front-loads the highest-value information into the
+window of guaranteed full attention, while the reasoning that follows is
+now optional context the listener can choose to absorb or skip — a
+build-up structure instead risks losing the listener's attention before
+the conclusion ever arrives, especially in an environment (executive
+settings) where interruption and multitasking are the norm rather than
+the exception.
+
+The one-risk, one-ask constraint in status updates is a deliberate
+application of the same working-memory limits from Level 1 Module 1,
+now applied to the *listener's* memory rather than the speaker's: a
+person receiving many rapid updates across a day can reliably retain
+only a small number of discrete action items from each one. Flagging
+multiple risks or asks per update doesn't communicate more — it
+dilutes which one actually gets acted on, since the listener's limited
+retention capacity forces an implicit, uncontrolled prioritization on
+their end instead of the explicit one you intended to make for them.
+
+Calm, brief responses to pushback work because length and hedging in a
+high-stakes reply are read as **signals of uncertainty**, independent
+of content — a long, qualified defense of a position suggests the
+speaker isn't fully confident in it, while a short, direct
+acknowledge-and-restate ("Fair point — the reason I still favor X is...")
+signals that the position was already considered and remains held. This
+is the same face-management principle from Level 3's cross-cultural
+module, calibrated specifically to a directness-and-brevity-rewarding
+executive register, where economy of words is itself read as a
+proxy for seniority and command of the material.
+
 ## Exercise
 
 Take a project you're currently involved in and write a 30-second

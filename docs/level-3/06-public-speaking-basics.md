@@ -67,6 +67,42 @@ specific techniques not typically needed in one-on-one conversation.
 | Did I spread eye contact across the room, not just one spot? | Builds connection with the whole audience |
 | Did I use a breathing technique to manage nerves before starting? | Reduces physical symptoms of anxiety that affect delivery |
 
+## How It Actually Works
+
+Slowing to 120-150 words per minute isn't arbitrary politeness toward a
+larger room — it directly compensates for the loss of the feedback
+loop that governs conversational pacing. In one-on-one conversation, a
+listener's micro-reactions (a nod, a confused look, a question) let you
+continuously recalibrate pace and clarity in real time; a room-sized
+audience gives you none of that immediate signal, especially from
+people at the back. Slower, clearer delivery is a preemptive substitute
+for the missing feedback — you're deliberately over-clarifying because
+you can't detect and repair confusion as it happens, unlike in a
+dialogue where you'd notice and adjust within a second.
+
+Diaphragmatic breathing solves a genuine mechanical problem: projecting
+loudly using only chest/throat muscles forces the vocal folds to work
+harder against inadequate breath support, which both strains the voice
+and produces a tighter, higher-pitched, less controlled tone under
+stress — precisely the vocal signature audiences read as "nervous."
+Breathing from the diaphragm supplies steady, ample air pressure from
+below, so volume comes from breath support rather than throat tension,
+letting you project loudly while keeping pitch and tone controlled — it
+is a physiological fix, not a confidence trick, and it's the same
+technique singers and voice actors use for the identical reason.
+
+The nervousness-management techniques target the **sympathetic nervous
+system's** acute stress response (racing heart, shallow breathing,
+adrenaline) directly rather than trying to argue yourself out of it
+cognitively — slow counted breathing physically activates the
+parasympathetic (calming) nervous system, which is why it measurably
+lowers heart rate within seconds regardless of whether you still feel
+mentally anxious. This is why a rehearsed, deliberately slow opening
+line works even when nerves are still present: it doesn't require you
+to feel calm first, it forces the vocal and breathing mechanics of
+calm delivery, and the physiological state tends to follow the
+behavior rather than the other way around.
+
 ## Exercise
 
 Prepare a 2-minute talk on a familiar topic. Deliver it standing up, out

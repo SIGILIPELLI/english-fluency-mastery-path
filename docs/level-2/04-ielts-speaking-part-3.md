@@ -86,6 +86,43 @@ example — the pattern that examiners associate with Band 7+ responses.
 | Did I use hedging language appropriately ("tends to," "arguably")? | Natural for abstract topics — shows nuanced Lexical Resource |
 | Did I avoid memorized "template" phrases that don't fit the question? | Examiners are trained to spot rehearsed, irrelevant answers |
 
+## How It Actually Works
+
+Part 3 shifts from concrete description to abstraction because it's
+testing a different cognitive operation entirely: describing a personal
+memory (Part 2) draws on **episodic memory** retrieval, which is
+relatively low-load once the memory is found — you're narrating
+something that already happened in a fixed order. Answering "why do
+some people struggle to learn skills as adults?" requires generating
+novel generalizations, weighing causes, and constructing hypotheticals
+on the spot — operations that recruit working memory and executive
+function much more heavily, because there's no stored episode to
+retrieve, only abstract knowledge to synthesize in real time. This is
+the actual reason Part 3 correlates so strongly with higher bands: it
+exposes whether your English can support complex thought, not just
+recount.
+
+The four-step framework (position → reason → example → counter-view)
+mirrors the structure of formal argumentation because that structure
+is what makes complex, abstract reasoning *verbally trackable* by a
+listener. An unstructured stream of abstract claims is hard to follow
+even in a first language; anchoring each abstract claim to a concrete
+example exploits a well-documented memory advantage — concrete,
+imageable information is recalled and processed more easily than
+abstract propositions alone (concreteness effect) — which is why
+"you can see this with handwriting" does real cognitive work for the
+listener, not just decorative work for the speaker.
+
+Acknowledging the other side raises the score because it demonstrates
+**dialectical reasoning** — holding two positions in mind
+simultaneously and relating them — a more sophisticated cognitive and
+linguistic operation than stating a single view, and it requires
+specific grammatical machinery (concessive clauses: "that said,"
+"although," "even though") that a purely one-sided answer never has
+reason to produce, which is exactly why it shows up as increased
+Grammatical Range in the scoring rubric, not just as diplomatic
+courtesy.
+
 ## Exercise
 
 Take the five question types from section 2 and write one original

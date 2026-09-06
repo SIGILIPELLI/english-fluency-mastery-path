@@ -66,6 +66,45 @@ allowing accurate note-taking without needing every word.
 | Did I focus on content words when speech was fast? | Preserves meaning even when you can't catch every word |
 | Did I flag unclear points instead of getting stuck on them? | Prevents missing the next section while dwelling on one gap |
 
+## How It Actually Works
+
+Real lectures and meetings lack the pre-set questions that guide IELTS
+Listening, so the burden shifts entirely to your own **schema
+construction** — building, in real time, a model of the discourse's
+overall shape using structural signal phrases as scaffolding. "There
+are three key factors" pre-loads a container with three expected slots
+before any content arrives, so when the speaker says "the first...",
+your brain already knows where that information belongs in the
+developing structure rather than receiving it as a free-floating fact —
+this is a direct scale-up of the top-down prediction mechanism from
+Level 1 Module 5's listening-for-signal-words, applied to whole
+multi-minute discourse rather than single sentences.
+
+Content-word-focused listening under fast or accented speech works
+because of **redundancy in the linguistic signal**: content words
+(nouns, verbs, adjectives) carry most of a sentence's propositional
+information, while function words (articles, auxiliary verbs,
+prepositions) are largely predictable from grammar and context — a
+skilled listener can reconstruct a sentence's meaning from content
+words alone the same way you can read a sentence with vowels removed.
+This is also why the 30-60 second accent-adjustment strategy works:
+unfamiliar accents mainly shift the acoustic realization of *sounds*,
+not the underlying content-word information, and your auditory system
+needs a short calibration window to remap an unfamiliar vowel space onto
+familiar phoneme categories — deliberately not chasing individual words
+during that window prevents panic from disrupting the calibration.
+
+The flag-and-move-on strategy for unclear points is protecting against
+a specific failure mode called **processing lock-up**: dwelling on one
+missed word consumes working-memory capacity that the ongoing incoming
+speech stream doesn't wait for, so fixating on a gap actively causes you
+to miss the next several seconds of new content — turning one small gap
+into a cascading one. Marking it and moving on is a deliberate
+prioritization decision: preserving the ongoing stream is worth more
+than resolving any single unclear item immediately, which is precisely
+why professional interpreters are trained to do the same thing rather
+than ever stopping to "figure out" a missed word mid-stream.
+
 ## Exercise
 
 Find a 5-10 minute academic lecture or professional talk online (a

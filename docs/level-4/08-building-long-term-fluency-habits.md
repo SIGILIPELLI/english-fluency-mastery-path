@@ -69,6 +69,45 @@ survives a busy week because each piece is short.
 | Do I have a feedback loop (recordings, a partner, periodic review)? | Without feedback, plateaus go unnoticed for months |
 | Am I deliberately varying register and accent in my input? | Prevents blind spots that only surface in real high-stakes situations |
 
+## How It Actually Works
+
+Active production skills (speaking, writing) decay faster than passive
+ones (listening, reading) because they rely on different memory
+processes with different maintenance requirements. Comprehension draws
+on **recognition memory** — matching incoming input against a stored
+representation, a relatively low-threshold, resilient operation.
+Production draws on **recall memory** — generating the correct form
+from scratch with no external cue, a higher-threshold operation that
+degrades faster without active rehearsal because the retrieval pathway
+itself weakens without use, even while the underlying knowledge is
+still technically stored. This is the same recognition-versus-recall
+asymmetry behind why you can often understand a language you can barely
+speak, and it's the direct justification for why the weekly minimums
+weight speaking and writing more heavily than listening and reading.
+
+The plateau caused by "practicing only familiar topics" reflects a
+specific limitation of how skill consolidation works: procedural
+fluency built through repetition (Level 1 Module 1's chunking and
+automaticity) generalizes only as far as the range of material it was
+practiced on. Speaking fluently about familiar topics repeatedly
+strengthens retrieval pathways for that specific vocabulary and those
+specific structures, but doesn't automatically extend fluency to
+unfamiliar territory — this is why comfort with a narrow topic range
+can coexist indefinitely with a plateau, and why deliberately
+practicing unfamiliar topics (the same principle behind the band
+descriptors' emphasis on performance "in unfamiliar situations," Level
+1 Module 8) is the only way to expand the range fluency actually covers.
+
+The 48-hour active-recall window for new vocabulary is grounded in the
+**forgetting curve** — newly learned information decays fastest in the
+first day or two after exposure, and each successful retrieval attempt
+within that window resets and flattens the decay curve, a well-studied
+effect called spaced retrieval practice. Waiting longer than 48 hours to
+use a new word means attempting retrieval after the steepest part of the
+decay has already happened, making the retrieval attempt itself far more
+likely to fail — which is why "try to use it within 48 hours" is a
+precise, evidence-based window rather than an arbitrary deadline.
+
 ## Exercise
 
 Design your own weekly habit plan using the template in section 5,

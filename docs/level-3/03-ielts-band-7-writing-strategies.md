@@ -78,6 +78,46 @@ ones ("big," "good," "change").
 | Does each paragraph include at least two different sentence types? | Demonstrates Grammatical Range directly |
 | Did I fully address every part of the task, not just the easiest part? | Task Achievement/Response caps the score if any part is skipped |
 
+## How It Actually Works
+
+Mechanical connectives like "Firstly... Secondly... Moreover..." mark
+**additive cohesion** — they signal only that another item is being
+added to a list, without specifying how the items actually relate. The
+Band 7+ rewrite ("Pollution increases sharply, which in turn drives up
+rates of respiratory illness") instead uses **causal cohesion** — "in
+turn" encodes an actual causal chain between the two clauses. This is
+not merely stylistic variety: it demonstrates that you can express
+logical relationships (cause, contrast, consequence) as an integrated
+part of sentence grammar rather than bolting a generic list-marker onto
+otherwise unconnected sentences, which is exactly the distinction the
+rubric's phrase "cohesion used flexibly" is pointing at — flexible
+means matching the cohesive device to the actual logical relationship,
+not having a bigger stock of transition words.
+
+The precision-over-impressiveness principle reflects how raters assess
+**lexical control**, not lexical rarity. A word carries a very specific
+package of meaning, connotation, and typical collocates; "pose a
+challenge" and "is a problem" differ not in formality alone but in
+precise scope — "challenge" implies something surmountable and often
+implies agency (who must address it), while "problem" is neutral and
+open-ended. Choosing the word whose exact meaning matches your intended
+claim signals that your internal representation of the word's meaning
+is accurate and complete, whereas reaching for an impressive synonym
+without matching its precise sense reveals you're pattern-matching
+"sounds sophisticated" rather than genuinely knowing the word — and
+raters are specifically trained to catch that gap.
+
+Sentence-type variety is scored because different syntactic structures
+encode different logical relationships as grammar rather than as
+separate sentences: a subordinate clause ("Although X, Y") builds
+concession directly into a single sentence's structure, while two
+simple sentences describing the same content force the reader to infer
+that relationship themselves. Producing this range demonstrates you can
+choose the grammatical structure that matches your intended logical
+relationship on demand, rather than defaulting to the one structure
+(usually simple, coordinate sentences) that's easiest to retrieve —
+which is the concrete, testable meaning behind "grammatical range."
+
 ## Exercise
 
 Take an essay paragraph you've written before (from Level 2's Task 2

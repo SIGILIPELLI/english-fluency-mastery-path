@@ -70,6 +70,41 @@ contexts to academic ones.
 | Did I watch for corrections/changes mentioned by speakers? | The final version of information is what's tested, not the first |
 | Did I answer every question, even with a guess? | No penalty for incorrect answers — blanks are pure lost points |
 
+## How It Actually Works
+
+Reading questions during preview time works because it converts a
+blind, bottom-up listening task into a **top-down, predictive** one —
+the same mechanism behind gist listening in Level 1 Module 5. Once you
+know a blank expects a date, your brain pre-activates the relevant word
+class (numbers, weekday names, month names) before the audio starts, so
+recognizing the answer becomes a matching operation against a narrow,
+pre-loaded set rather than parsing the entire sentence from raw sound.
+This is why prediction improves accuracy more than "listening harder"
+does — it reduces the search space, not the acoustic difficulty.
+
+The paraphrase strategy exists because IELTS Listening is deliberately
+testing **semantic comprehension**, not keyword-spotting: if questions
+used the exact words spoken in the audio, the test would only measure
+whether you can match strings, which isn't the underlying skill real
+listening comprehension requires. Speakers restate the same proposition
+("the price comes to...") using different surface words, and only a
+listener who has actually built a meaning-level representation of the
+sentence (not a word-level one) can recognize that "cost" and "the price
+comes to" refer to the same concept — this is the identical skill
+tested by signal-word recognition in Level 1 Module 5, scaled to whole
+propositions instead of single discourse markers.
+
+The self-correction/distractor pattern reflects how spontaneous speech
+actually gets produced: speakers plan and revise in real time, so
+early-stated information is frequently provisional, and the test is
+built around genuine features of unscripted speech rather than
+artificial trickery. Recognizing that the *final* commitment, not the
+first mention, carries the asserted meaning requires tracking
+discourse-level commitment markers ("actually," "no, sorry," "let's go
+with") — the same category of cohesion cues Level 1 Module 6 taught for
+production, now applied to comprehension, which is why this program
+trains both directions of the same underlying skill.
+
 ## Exercise
 
 Find a free IELTS Listening Section 1 or 2 practice recording online.

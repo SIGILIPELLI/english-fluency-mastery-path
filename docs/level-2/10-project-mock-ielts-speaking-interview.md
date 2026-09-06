@@ -83,6 +83,43 @@ test uses:
 | Did I self-score against all four official criteria? | Generic "that went well" feedback doesn't drive improvement |
 | Did I identify one specific weakness to target next time? | Turns the mock test into a concrete practice plan |
 
+## How It Actually Works
+
+Writing only questions in advance, never answers, is enforcing a
+specific and important constraint: **transfer** — the ability to apply a
+trained skill under novel conditions — only gets tested when the
+stimulus is genuinely unseen at the moment of response. If you script
+answers in advance, you are practicing memory retrieval of prepared
+text (the same "read" quality problem covered in Module 3's How It
+Actually Works), which trains a different skill than the one the exam
+actually measures: real-time language production. A mock test with
+pre-known answers can feel successful while leaving the actual bottleneck
+— generating fluent language under uncertainty — completely untrained,
+which is why the self-scored result from such a mock would be a false
+positive.
+
+Running the whole 11-14 minutes in one uninterrupted take (no pausing to
+plan) is deliberately reproducing a specific real-world constraint:
+**endurance under sustained cognitive load**. Each individual sub-skill
+(Part 1's brevity, Part 2's structure, Part 3's abstraction) has already
+been trained separately across the ten modules of Level 1 and Level 2,
+but the exam requires switching among all of them fluidly for a
+continuous quarter-hour, with fatigue and accumulating minor errors from
+earlier answers still present when a later, harder question arrives.
+This is a different demand than practicing any one part in isolation
+with a fresh mind each time, and it's the reason skills that look solid
+in single-module drills sometimes degrade in a full run — the mock test
+surfaces that gap specifically because nothing else in the program does.
+
+Self-scoring across all four criteria, rather than a global impression,
+forces the same **rubric-anchored metacognition** introduced in the
+Level 1 capstone, now applied at exam scale — identifying exactly which
+criterion is the weak link (say, Grammatical Range holding steady while
+Pronunciation degrades toward the end) turns a vague sense of "that
+could've gone better" into an actionable diagnosis, which is precisely
+the difference between a mock test that produces measurable improvement
+and one that produces only a recording.
+
 ## Exercise
 
 Using section 2, build your own full mock script (Part 1 topics, one

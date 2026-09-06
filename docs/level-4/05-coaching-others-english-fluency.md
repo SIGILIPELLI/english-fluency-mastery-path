@@ -76,6 +76,46 @@ briefly, and immediately has the learner produce the corrected form.
 | Did I choose the right correction technique for the moment (recast vs. direct vs. delayed)? | Wrong-moment correction breaks confidence or fluency unnecessarily |
 | Did I end the session on a genuine, specific strength? | Ends the session with motivation intact |
 
+## How It Actually Works
+
+Recasts work as a correction technique because they exploit the same
+implicit, procedural learning channel that first-language acquisition
+uses, rather than the explicit, declarative channel a grammar
+explanation engages. Repeating the learner's sentence correctly inside a
+natural response ("Oh, you *went* to the market — what did you buy?")
+supplies the correct form at the exact moment the learner's attention is
+already on that content, without interrupting the communicative flow of
+the conversation — this lets correction happen through comparison
+(their form vs. your form, heard back to back) rather than through
+interruption, which is why it's the right tool during fluency-focused
+practice: it corrects without forcing a costly context-switch out of
+production mode and into explicit grammar analysis, the same switch
+identified as costly for self-correction in Level 1 Module 1.
+
+Vague feedback ("your grammar has a lot of mistakes") fails to change
+behavior because it doesn't identify an actionable target for the
+learner's next attempt — behavior change through feedback requires the
+learner to know precisely what to do differently next time, and "a lot
+of mistakes" describes an outcome, not a correctable pattern. Naming a
+specific, repeatable pattern ("you dropped the article three times")
+converts vague awareness into a concrete practice target the same way
+a self-assessment rubric does (Level 1 Module 10) — it's the difference
+between diagnosing a category of problem and diagnosing a symptom the
+learner can neither locate nor fix.
+
+Diagnosing "correct but very simple sentences" as avoidance rather than
+ignorance matters because the correct intervention differs completely
+depending on which is true: a knowledge gap needs new input and
+explicit teaching, while an avoidance pattern needs lower-stakes
+practice environments that reduce the perceived cost of making an error
+in front of others — a documented phenomenon in language pedagogy where
+learners systematically retreat to grammar they're certain is correct
+under performance pressure, masking competence they actually possess.
+Prescribing more grammar drills to an avoidance-driven learner treats
+the wrong cause and produces no improvement, which is exactly why
+accurate bottleneck diagnosis is presented as the coach's first job,
+not an optional preliminary.
+
 ## Exercise
 
 Record a 5-minute conversation with a learner (or a recording of your

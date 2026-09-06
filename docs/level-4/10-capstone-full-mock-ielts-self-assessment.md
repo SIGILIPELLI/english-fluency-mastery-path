@@ -76,6 +76,46 @@ okay").
 | Did I self-assess against band descriptors, not just a gut feeling? | Descriptor-based review reveals specific, fixable gaps |
 | Did I write down one specific fix per section, not just a score? | A score alone doesn't tell you what to practice next |
 
+## How It Actually Works
+
+Requiring unseen material for the Reading and Listening sections isn't
+just exam hygiene — reusing seen material tests **recognition memory**
+of a specific text (do I remember what this passage said) rather than
+the actual construct being measured, real-time comprehension of novel
+input under time pressure. A familiar passage lets you answer correctly
+from memory even where your genuine reading speed or scanning accuracy
+would have failed on unfamiliar text, producing a self-assessment that
+overstates your real exam-day performance — the identical evidentiary
+problem noted for pre-scripted mock Speaking answers in Level 2 Module
+10.
+
+Assessing against confidence rather than the band descriptors is
+explicitly warned against because confidence and accuracy are generated
+by different internal signals that frequently diverge. Confidence
+during production tracks fluency of *retrieval* — how easily and
+quickly language came out — while accuracy is an objective property of
+the output itself; a fluently, confidently delivered answer can still
+contain systematic grammar errors the speaker has no real-time access to
+detecting, because self-monitoring during live production competes for
+the same attentional resources as production itself (the same
+production-versus-monitoring trade-off from Level 3 Module 1). This is
+why the capstone insists on recording Speaking and reviewing it
+afterward against explicit descriptors: it moves assessment out of the
+moment of production, where confidence dominates, and into a separate
+review pass where accuracy can actually be evaluated.
+
+Writing one specific, fixable pattern per section rather than a single
+overall score closes the loop on every self-assessment technique this
+program has built across four levels — from Module 1's structural
+checklist through Level 3's rubric-anchored metacognition — because a
+score is a summary statistic that discards the diagnostic information
+needed to improve, while a named pattern ("under-length Part 2 answers,
+stopping instead of adding an example") is directly actionable as a
+targeted practice task. This is the same distinction between symptom
+and bottleneck from the coaching module (Level 4 Module 5), now applied
+reflexively to your own self-assessment rather than to a learner you're
+coaching.
+
 ## Exercise
 
 Administer a full timed mock test using unseen material across all

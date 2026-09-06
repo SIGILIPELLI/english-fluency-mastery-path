@@ -87,6 +87,46 @@ Notice you'd use gist listening if a manager just wants a summary later,
 but you'd need to switch into detail mode — and probably ask a
 clarifying question — if you're the one scheduling that Thursday call.
 
+## How It Actually Works
+
+Shadowing's effect isn't primarily about memorizing phrases — it works
+because it trains an **auditory-motor feedback loop**, the same neural
+circuit (involving the arcuate fasciculus, connecting speech-perception
+regions to speech-production regions) that infants use to learn their
+first language by hearing a sound and immediately attempting to
+reproduce it. Producing speech and perceiving speech share overlapping
+neural machinery; shadowing exploits that overlap by forcing production
+to track perception in real time, at the speaker's actual pace, so your
+articulators (tongue, lips, jaw) are trained against a live rhythmic
+target instead of against your own, usually slower, internal sense of
+correct pacing. This is also why shadowing improves prosody
+specifically — rhythm and intonation are supra-segmental features you
+can only calibrate by matching timing against a real model, not by
+studying rules about where stress "should" go.
+
+Gist vs. detail listening reflects a genuine trade-off in how the brain
+allocates a limited pool of attention during real-time speech
+processing. Trying to decode every phoneme is metabolically and
+attentionally expensive; the brain instead relies heavily on **top-down
+prediction** — using context, topic, and partial cues to guess upcoming
+words before they're fully perceived, filling in gaps the way you read a
+typo-filled sentence without noticing the typos. Gist listening
+deliberately leans into this predictive mode; forcing yourself into
+detail mode for everything overrides prediction with slow, effortful
+bottom-up decoding, which is precisely why it causes the "panic" the
+module describes — you're fighting your own brain's efficient default
+strategy instead of using it.
+
+Signal words work because they are **discourse markers**: they don't add
+propositional content, but they tell the listener how to structurally
+relate the upcoming sentence to what came before (contrast, example,
+summary), effectively handing over the outline of the speaker's argument
+in advance. Recognizing them lets a listener build a predictive
+structural map of the rest of the utterance, which is exactly the
+top-down prediction mechanism above — it's why experienced listeners can
+follow speech even through noise or missed words, and it's a directly
+learnable skill independent of vocabulary size.
+
 ## Exercise
 
 Find a 20-30 second clip of natural spoken English with a transcript
