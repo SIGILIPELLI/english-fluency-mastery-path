@@ -123,6 +123,12 @@ English" offer forces every reader to do the work of imagining whether
 it applies to them, while a specific offer does that categorization
 work for them.
 
+## 🔀 Related lessons on other tracks
+
+- [Claude Training — 09 · Career Growth: Becoming an AI-Fluent Professional](https://sigilipelli.github.io/claude-training-mastery-path/level-4/09-career-growth-ai-fluent-professional/)
+- [Agile — 09 · Career Growth: Scrum Master to Agile Coach/Director](https://sigilipelli.github.io/agile-mastery-path/level-4/09-career-growth-scrum-master-to-coach/)
+- [AI Manager — 09 · Career Growth: AI Manager to Chief AI Officer](https://sigilipelli.github.io/ai-manager-mastery-path/level-4/09-career-growth-ai-manager-to-caio/)
+
 ## Exercise
 
 Write a full coaching offer description for yourself using the

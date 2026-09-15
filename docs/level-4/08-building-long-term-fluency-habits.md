@@ -112,6 +112,11 @@ decay has already happened, making the retrieval attempt itself far more
 likely to fail — which is why "try to use it within 48 hours" is a
 precise, evidence-based window rather than an arbitrary deadline.
 
+## 🔀 Related lessons on other tracks
+
+- [Freertos — Long-Term Maintenance & LTS Strategy](https://sigilipelli.github.io/freertos-mastery-path/level-4/09-lts-maintenance/)
+- [Servant Leadership — 08 · Legacy & Long-Term Impact](https://sigilipelli.github.io/servant-leadership-mastery-path/level-4/08-legacy-long-term-impact/)
+
 ## Exercise
 
 Design your own weekly habit plan using the template in section 5,
