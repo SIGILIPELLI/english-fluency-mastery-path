@@ -1,3 +1,7 @@
+---
+description: "IELTS Band 8+ Mastery — Band 7 (covered in Level 3) demonstrates a 'good user' of English with occasional inaccuracies. Band 8 — 'very good user' …"
+---
+
 # 03 · IELTS Band 8+ Mastery
 
 Band 7 (covered in Level 3) demonstrates a "good user" of English with

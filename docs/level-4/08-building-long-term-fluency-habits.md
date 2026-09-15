@@ -1,3 +1,7 @@
+---
+description: "Building Long-Term Fluency Habits — Reaching an advanced level is not the finish line — English fluency decays without regular use, and plateaus are…"
+---
+
 # 08 · Building Long-Term Fluency Habits
 
 Reaching an advanced level is not the finish line — English fluency

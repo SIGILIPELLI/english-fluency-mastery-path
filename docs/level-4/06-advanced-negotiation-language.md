@@ -1,3 +1,7 @@
+---
+description: "Advanced Negotiation Language — Negotiation in English relies on a specific set of phrases for anchoring positions, making conditional offers, and closing…"
+---
+
 # 06 · Advanced Negotiation Language
 
 Negotiation in English relies on a specific set of phrases for

@@ -1,3 +1,7 @@
+---
+description: "Project — Full Mock IELTS Speaking Interview Script — This module ties together everything from Level 2: Part 1 short answers, Part 2's 1-minute-prep long…"
+---
+
 # 10 · Project — Full Mock IELTS Speaking Interview Script
 
 This module ties together everything from Level 2: Part 1 short

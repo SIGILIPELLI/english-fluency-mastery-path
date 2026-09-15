@@ -1,3 +1,7 @@
+---
+description: "Listening Actively — Speaking and listening are trained together, not separately — you can't respond fluently to something you didn't fully understand…"
+---
+
 # 05 · Listening Actively
 
 Speaking and listening are trained together, not separately — you can't

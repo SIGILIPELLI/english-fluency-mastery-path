@@ -1,3 +1,7 @@
+---
+description: "IELTS Band 7+ Speaking Strategies — Band 6 answers are correct and understandable. Band 7+ answers are distinguished by specific, describable features…"
+---
+
 # 02 · IELTS Band 7+ Speaking Strategies
 
 Band 6 answers are correct and understandable. Band 7+ answers are

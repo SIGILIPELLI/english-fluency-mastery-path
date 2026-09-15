@@ -1,3 +1,7 @@
+---
+description: "Project — Deliver a 5-Minute Presentation on a Given Topic — This is the Level 3 capstone project. It combines public speaking structure, handling…"
+---
+
 # 10 · Project — Deliver a 5-Minute Presentation on a Given Topic
 
 This is the Level 3 capstone project. It combines public speaking

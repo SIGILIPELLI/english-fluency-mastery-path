@@ -1,3 +1,7 @@
+---
+description: "Advanced Persuasive Speaking & Debate Techniques — Persuasion at an advanced level isn't about speaking louder or faster than the other side — it's about…"
+---
+
 # 02 · Advanced Persuasive Speaking & Debate Techniques
 
 Persuasion at an advanced level isn't about speaking louder or faster

@@ -1,3 +1,7 @@
+---
+description: "Common Conversation Situations — Most everyday conversations fall into a small number of recurring situations — small talk, giving an opinion, agreeing or…"
+---
+
 # 07 · Common Conversation Situations
 
 Most everyday conversations fall into a small number of recurring

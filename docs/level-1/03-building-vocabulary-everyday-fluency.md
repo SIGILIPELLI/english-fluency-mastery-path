@@ -1,3 +1,7 @@
+---
+description: "Building Vocabulary for Everyday Fluency — Memorizing isolated words ('happy,' 'run,' 'beautiful') is a slow, low- yield way to build spoken vocabulary…"
+---
+
 # 03 · Building Vocabulary for Everyday Fluency
 
 Memorizing isolated words ("happy," "run," "beautiful") is a slow, low-

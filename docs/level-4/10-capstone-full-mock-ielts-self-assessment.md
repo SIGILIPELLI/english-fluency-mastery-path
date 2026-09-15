@@ -1,3 +1,7 @@
+---
+description: "Capstone — Full IELTS Mock Test Self-Administration & Band Score Self-Assessment — This capstone combines everything from Levels 1-4 into one exercise…"
+---
+
 # 10 · Capstone — Full IELTS Mock Test Self-Administration & Band Score Self-Assessment
 
 This capstone combines everything from Levels 1-4 into one exercise:

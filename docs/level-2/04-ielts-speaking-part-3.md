@@ -1,3 +1,7 @@
+---
+description: "IELTS Speaking Part 3 — Part 3 follows immediately after Part 2 and lasts 4-5 minutes. The examiner asks broader, more abstract discussion questions…"
+---
+
 # 04 · IELTS Speaking Part 3
 
 Part 3 follows immediately after Part 2 and lasts 4-5 minutes. The

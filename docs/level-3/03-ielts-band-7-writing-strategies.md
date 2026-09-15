@@ -1,3 +1,7 @@
+---
+description: "IELTS Band 7+ Writing Strategies — A common Band 6 pattern is starting every sentence with 'Firstly,' 'Moreover,' 'In addition' — mechanically correct but…"
+---
+
 # 03 · IELTS Band 7+ Writing Strategies
 
 Level 2 covered the basic structure for Task 1 and Task 2. This module

@@ -1,3 +1,7 @@
+---
+description: "Executive-Level Communication in English — At the executive level, communication is judged less on vocabulary range and more on economy, confidence, and…"
+---
+
 # 01 · Executive-Level Communication in English
 
 At the executive level, communication is judged less on vocabulary

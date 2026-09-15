@@ -1,3 +1,7 @@
+---
+description: "Coaching Others in English Fluency — Reaching an advanced level yourself is different from being able to help someone else improve. Coaching requires…"
+---
+
 # 05 · Coaching Others in English Fluency
 
 Reaching an advanced level yourself is different from being able to

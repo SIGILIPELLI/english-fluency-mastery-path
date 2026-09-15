@@ -1,3 +1,7 @@
+---
+description: "Media & Interview Skills — Speaking to a journalist, on a podcast, or in a high-stakes job interview requires a different skill set from ordinary…"
+---
+
 # 07 · Media & Interview Skills
 
 Speaking to a journalist, on a podcast, or in a high-stakes job

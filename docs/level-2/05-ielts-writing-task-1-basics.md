@@ -1,3 +1,7 @@
+---
+description: "IELTS Writing Task 1 Basics — Task 1 is graded on: Task Achievement, Coherence and Cohesion, Lexical Resource, and Grammatical Range and Accuracy — the…"
+---
+
 # 05 · IELTS Writing Task 1 Basics
 
 Writing Task 1 (Academic) asks you to describe visual information — a

@@ -1,3 +1,7 @@
+---
+description: "IELTS Writing Task 2 Basics — Task 2 asks you to write an essay of at least 250 words in about 40 minutes, responding to a statement or question with your…"
+---
+
 # 06 · IELTS Writing Task 2 Basics
 
 Task 2 asks you to write an **essay of at least 250 words in about 40

@@ -1,3 +1,7 @@
+---
+description: "Advanced Pronunciation — Fluent speech doesn't pause between words the way written text has spaces. Sounds link across word boundaries in predictable ways."
+---
+
 # 01 · Advanced Pronunciation
 
 At Level 1 you worked on individual sounds and word stress. At this

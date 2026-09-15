@@ -1,3 +1,7 @@
+---
+description: "Handling Difficult Questions & Impromptu Speaking — Whether it's a hostile question after a presentation, an unexpected question in an interview, or an…"
+---
+
 # 07 · Handling Difficult Questions & Impromptu Speaking
 
 Whether it's a hostile question after a presentation, an unexpected

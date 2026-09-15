@@ -1,3 +1,7 @@
+---
+description: "Advanced Fluency Techniques — By Level 3, the goal shifts from 'can be understood' to 'sounds genuinely fluent under pressure.' This module covers…"
+---
+
 # 01 · Advanced Fluency Techniques
 
 By Level 3, the goal shifts from "can be understood" to "sounds

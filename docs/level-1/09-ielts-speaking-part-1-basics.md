@@ -1,3 +1,7 @@
+---
+description: "IELTS Speaking Part 1 Basics — Part 1 of the IELTS Speaking test is an interview-style warm-up: the examiner asks personal questions on familiar topics …"
+---
+
 # 09 · IELTS Speaking Part 1 Basics
 
 Part 1 of the IELTS Speaking test is an interview-style warm-up: the

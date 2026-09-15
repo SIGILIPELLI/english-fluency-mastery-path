@@ -1,3 +1,7 @@
+---
+description: "IELTS Speaking Part 2 — Part 2 is the 'long turn': the examiner hands you a task card with a topic and three or four bullet points, gives you 1 minute to…"
+---
+
 # 03 · IELTS Speaking Part 2
 
 Part 2 is the "long turn": the examiner hands you a task card with a

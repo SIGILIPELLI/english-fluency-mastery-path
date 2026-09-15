@@ -1,3 +1,7 @@
+---
+description: "Idiomatic Expressions & Natural Phrasing — Grammatically correct English can still sound stiff or translated if it avoids the idiomatic phrasing native…"
+---
+
 # 02 · Idiomatic Expressions & Natural Phrasing
 
 Grammatically correct English can still sound stiff or translated if it

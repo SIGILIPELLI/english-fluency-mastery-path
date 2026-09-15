@@ -1,3 +1,7 @@
+---
+description: "IELTS Reading Strategies — The Academic Reading test has 3 passages, 40 questions, and a 60 minute time limit — with no extra transfer time in the…"
+---
+
 # 08 · IELTS Reading Strategies
 
 The Academic Reading test has **3 passages, 40 questions, and a 60

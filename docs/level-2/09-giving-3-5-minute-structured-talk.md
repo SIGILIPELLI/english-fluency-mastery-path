@@ -1,3 +1,7 @@
+---
+description: "Giving a 3-5 Minute Structured Talk — Level 1 built a 2-minute short talk. This module extends that to a 3-5 minute structured talk — long enough that a…"
+---
+
 # 09 · Giving a 3-5 Minute Structured Talk
 
 Level 1 built a 2-minute short talk. This module extends that to a

@@ -1,3 +1,7 @@
+---
+description: "Career Growth: Becoming an English Fluency Coach — Advanced fluency, combined with the coaching skills from Module 05, is a marketable skill in its own…"
+---
+
 # 09 · Career Growth: Becoming an English Fluency Coach
 
 Advanced fluency, combined with the coaching skills from Module 05, is

@@ -1,3 +1,7 @@
+---
+description: "IELTS Listening Strategies — The IELTS Listening test has 4 sections, 40 questions total, and runs about 30 minutes of audio plus 10 minutes at the end to…"
+---
+
 # 07 · IELTS Listening Strategies
 
 The IELTS Listening test has **4 sections, 40 questions total, and runs

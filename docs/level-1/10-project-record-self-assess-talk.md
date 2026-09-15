@@ -1,3 +1,7 @@
+---
+description: "Project — Record and Self-Assess a 2-Minute Short Talk — This project pulls together everything from Level 1: fluency habits (Module 1), pronunciation…"
+---
+
 # 10 · Project — Record and Self-Assess a 2-Minute Short Talk
 
 This project pulls together everything from Level 1: fluency habits

@@ -1,3 +1,7 @@
+---
+description: "Grammar Patterns for Speaking — You don't need every grammar rule in English to speak fluently — spoken English leans heavily on a small set of…"
+---
+
 # 04 · Grammar Patterns for Speaking
 
 You don't need every grammar rule in English to speak fluently — spoken

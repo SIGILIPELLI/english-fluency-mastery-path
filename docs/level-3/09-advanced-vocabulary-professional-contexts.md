@@ -1,3 +1,7 @@
+---
+description: "Advanced Vocabulary for Professional Contexts — Beyond basic business English lies a tier of vocabulary that native professional speakers use constantly…"
+---
+
 # 09 · Advanced Vocabulary for Professional Contexts
 
 Beyond basic business English lies a tier of vocabulary that native

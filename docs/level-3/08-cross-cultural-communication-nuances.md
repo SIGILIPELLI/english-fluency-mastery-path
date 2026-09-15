@@ -1,3 +1,7 @@
+---
+description: "Cross-Cultural Communication Nuances — Fluent English isn't only grammar and vocabulary — it's also knowing how directness, politeness, humor, and small…"
+---
+
 # 08 · Cross-Cultural Communication Nuances
 
 Fluent English isn't only grammar and vocabulary — it's also knowing

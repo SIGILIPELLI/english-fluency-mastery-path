@@ -1,3 +1,7 @@
+---
+description: "Structuring a Short Talk — Talking for 1-2 minutes without stopping is a genuinely different skill from answering a quick question — you need a structure…"
+---
+
 # 06 · Structuring a Short Talk
 
 Talking for 1-2 minutes without stopping is a genuinely different skill

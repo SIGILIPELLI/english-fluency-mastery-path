@@ -1,3 +1,7 @@
+---
+description: "Advanced Reading for Academic Texts — Level 2 covered IELTS-style scanning and skimming. This module goes further, into reading dense academic and…"
+---
+
 # 05 · Advanced Reading for Academic Texts
 
 Level 2 covered IELTS-style scanning and skimming. This module goes

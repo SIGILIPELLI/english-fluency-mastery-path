@@ -1,3 +1,7 @@
+---
+description: "Advanced Academic Writing — Academic writing in English follows conventions that differ sharply from conversational or even business English: heavy use of…"
+---
+
 # 04 · Advanced Academic Writing
 
 Academic writing in English follows conventions that differ sharply

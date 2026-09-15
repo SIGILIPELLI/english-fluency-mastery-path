@@ -1,3 +1,7 @@
+---
+description: "Pronunciation & Articulation Basics — Clear pronunciation is not about sounding 'native' — it's about being easy to understand on the first listen. Two…"
+---
+
 # 02 · Pronunciation & Articulation Basics
 
 Clear pronunciation is not about sounding "native" — it's about being

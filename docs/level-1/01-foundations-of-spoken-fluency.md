@@ -1,3 +1,7 @@
+---
+description: "Foundations of Spoken Fluency — Most learners define fluency as 'speaking without mistakes.' That definition sets you up to fail, because it rewards…"
+---
+
 # 01 · Foundations of Spoken Fluency
 
 Most learners define fluency as "speaking without mistakes." That

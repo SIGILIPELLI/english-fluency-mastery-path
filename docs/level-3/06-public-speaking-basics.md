@@ -1,3 +1,7 @@
+---
+description: "Public Speaking Basics — Speaking fluently to one listener (an examiner, a conversation partner) is different from speaking to a group. This module covers…"
+---
+
 # 06 · Public Speaking Basics
 
 Speaking fluently to one listener (an examiner, a conversation partner)
