@@ -114,8 +114,8 @@ precise, evidence-based window rather than an arbitrary deadline.
 
 ## 🔀 Related lessons on other tracks
 
-- [Freertos — Long-Term Maintenance & LTS Strategy](https://sigilipelli.github.io/freertos-mastery-path/level-4/09-lts-maintenance/)
-- [Servant Leadership — 08 · Legacy & Long-Term Impact](https://sigilipelli.github.io/servant-leadership-mastery-path/level-4/08-legacy-long-term-impact/)
+- [Freertos — Long-Term Maintenance & LTS Strategy](https://learnmasterypath.com/freertos-mastery-path/level-4/09-lts-maintenance/)
+- [Servant Leadership — 08 · Legacy & Long-Term Impact](https://learnmasterypath.com/servant-leadership-mastery-path/level-4/08-legacy-long-term-impact/)
 
 ## Exercise
 

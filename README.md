@@ -2,7 +2,7 @@
 
 A free, structured, module-wise English fluency and IELTS exam preparation program — entry level to master level, with real dialogues, drills, and a hands-on project at the end of each level.
 
-**Live site:** https://sigilipelli.github.io/english-fluency-mastery-path/
+**Live site:** https://learnmasterypath.com/english-fluency-mastery-path/
 
 ## Contents
 
@@ -21,6 +21,6 @@ python3 -m venv .venv
 
 ## Related
 
-- [Servant Leadership Mastery Path](https://sigilipelli.github.io/servant-leadership-mastery-path/)
-- [Product Manager Mastery Path](https://sigilipelli.github.io/product-manager-mastery-path/)
-- [Project Manager Mastery Path](https://sigilipelli.github.io/project-manager-mastery-path/)
+- [Servant Leadership Mastery Path](https://learnmasterypath.com/servant-leadership-mastery-path/)
+- [Product Manager Mastery Path](https://learnmasterypath.com/product-manager-mastery-path/)
+- [Project Manager Mastery Path](https://learnmasterypath.com/project-manager-mastery-path/)

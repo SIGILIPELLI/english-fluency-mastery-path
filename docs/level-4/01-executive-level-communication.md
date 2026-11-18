@@ -108,8 +108,8 @@ proxy for seniority and command of the material.
 
 ## 🔀 Related lessons on other tracks
 
-- [Product Lead — Advanced Executive Communication](https://sigilipelli.github.io/product-lead-mastery-path/level-3/05-executive-communication/)
-- [Product Manager — 05 · Executive Communication & Board Reporting](https://sigilipelli.github.io/product-manager-mastery-path/level-4/05-executive-communication-board-reporting/)
+- [Product Lead — Advanced Executive Communication](https://learnmasterypath.com/product-lead-mastery-path/level-3/05-executive-communication/)
+- [Product Manager — 05 · Executive Communication & Board Reporting](https://learnmasterypath.com/product-manager-mastery-path/level-4/05-executive-communication-board-reporting/)
 
 ## Exercise
 
