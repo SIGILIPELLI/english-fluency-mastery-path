@@ -1,3 +1,7 @@
+---
+description: "Level 2 (Intermediate) of the free English Fluency & IELTS Mastery Path. Move from basic fluency into natural, idiomatic speech, and start IELTS…"
+---
+
 # Level 2 · Intermediate <span class="level-badge">Intermediate</span>
 
 Goal: move from basic fluency into natural, idiomatic speech, and start

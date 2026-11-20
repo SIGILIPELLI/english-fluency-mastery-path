@@ -1,3 +1,7 @@
+---
+description: "Level 1 (Entry) of the free English Fluency & IELTS Mastery Path. Understand what spoken fluency actually means (it isn't perfect grammar), build the…"
+---
+
 # Level 1 · Entry <span class="level-badge">Foundations</span>
 
 Goal: understand what spoken fluency actually means (it isn't perfect

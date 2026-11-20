@@ -1,3 +1,7 @@
+---
+description: "Level 3 (Advanced) of the free English Fluency & IELTS Mastery Path. Reduce fillers and self-correct in real time, push toward IELTS Band 7+ in speaking and…"
+---
+
 # Level 3 · Advanced <span class="level-badge">Advanced</span>
 
 Goal: reduce fillers and self-correct in real time, push toward IELTS Band

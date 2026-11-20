@@ -1,3 +1,7 @@
+---
+description: "Level 4 (Master) of the free English Fluency & IELTS Mastery Path. Operate at executive-level English communication, master Band 8+ IELTS strategy, and…"
+---
+
 # Level 4 · Master <span class="level-badge">Master</span>
 
 Goal: operate at executive-level English communication, master Band 8+
