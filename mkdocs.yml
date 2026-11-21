@@ -53,9 +53,11 @@ markdown_extensions:
 extra_css:
   - stylesheets/extra.css
   - stylesheets/progress-tracker.css
+  - stylesheets/final-quiz.css
 
 extra_javascript:
   - javascripts/progress-tracker.js
+  - javascripts/final-quiz.js
 
 
 
@@ -125,3 +127,5 @@ nav:
       - "08 · Building Long-Term Fluency Habits": level-4/08-building-long-term-fluency-habits.md
       - "09 · Career Growth: Becoming an English Fluency Coach": level-4/09-career-growth-fluency-coach.md
       - "10 · Capstone — Full IELTS Mock Test Self-Administration & Band Score Self-Assessment": level-4/10-capstone-full-mock-ielts-self-assessment.md
+  - "🎯 Final Quiz": quiz.md
+
