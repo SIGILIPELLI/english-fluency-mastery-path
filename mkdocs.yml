@@ -81,8 +81,8 @@ not_in_nav: |
 
 nav:
   - Home: index.md
-  - "💼 Interview Questions": interview-questions.md
-  - "📋 Cheat Sheet": cheat-sheet.md
+  - Interview Questions: interview-questions.md
+  - Cheat Sheet: cheat-sheet.md
   - "Level 1 · Entry":
       - Overview: level-1/index.md
       - "01 · Foundations of Spoken Fluency": level-1/01-foundations-of-spoken-fluency.md
@@ -131,5 +131,5 @@ nav:
       - "08 · Building Long-Term Fluency Habits": level-4/08-building-long-term-fluency-habits.md
       - "09 · Career Growth: Becoming an English Fluency Coach": level-4/09-career-growth-fluency-coach.md
       - "10 · Capstone — Full IELTS Mock Test Self-Administration & Band Score Self-Assessment": level-4/10-capstone-full-mock-ielts-self-assessment.md
-  - "🎯 Final Quiz": quiz.md
+  - Final Quiz: quiz.md
 
