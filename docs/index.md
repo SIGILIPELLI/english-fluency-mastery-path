@@ -1,6 +1,6 @@
 ---
 title: "Learn English Fluency & IELTS Prep Free: Beginner to Master Course"
-description: "Free English fluency and IELTS exam preparation course from beginner to advanced -- real dialogues, drills, band-score strategies, and a speaking-practice project in every module. Part of a 40-course library."
+description: "Free English fluency and IELTS exam preparation course from beginner to advanced -- real dialogues, drills and band-score strategies: 36 lessons, 3 projects and 1 capstone. Part of the free Mastery Path library."
 ---
 
 # English Fluency & IELTS Mastery Path
